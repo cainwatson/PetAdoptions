@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using PetAdoptionsServer.Data;
+using PetAdoptionsServer.Data.RescueGroups;
 
 namespace PetAdoptionsServer
 {
@@ -28,7 +28,11 @@ namespace PetAdoptionsServer
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
+            services.AddSingleton<AnimalListingService>();
+            services.AddHttpClient("rescuegroups", client =>
+            {
+                client.BaseAddress = new Uri("https://api.rescuegroups.org");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
