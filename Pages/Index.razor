@@ -1,5 +1,40 @@
 ﻿@page "/"
 
-<h1>Hello, world!</h1>
+@using PetAdoptionsServer.Data.RescueGroups
+@using PetAdoptionsServer.Data.RescueGroups.Objects
+@inject AnimalListingService AnimalListingService
 
-Welcome to your new app.
+<section>
+  <h1 class="mb-4 text-4xl">Animals for Adoption</h1>
+  @if (listings == null)
+  {
+    <p><em>Loading...</em></p>
+  }
+  else
+  {
+    <ul class="space-y-16">
+      @foreach (var listing in listings)
+      {
+        <li>
+          <article class="flex flex-wrap lg:h-96 lg:space-x-4 space-y-4 lg:space-y-0">
+            <img src=@listing.animalPictures.First().urlSecureFullsize class="w-full h-full lg:flex-1 object-cover rounded-sm" />
+            <div class="w-full h-full lg:flex-1 overflow-y-scroll">
+              <h2 class="inline-block mb-2 text-3xl">@listing.animalName</h2>
+              <span class="text-gray-900">@listing.animalAgeString</span>
+              <p>@listing.Description</p>
+            </div>
+          </article>
+        </li>
+      }
+    </ul>
+  }
+</section>
+
+@code {
+    private List<Animal> listings;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listings = await AnimalListingService.GetListingsAsync();
+    }
+}
