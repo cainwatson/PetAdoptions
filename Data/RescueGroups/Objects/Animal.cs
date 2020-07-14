@@ -1,7 +1,6 @@
 using System;
-using PetAdoptionsServer.Data.RescueGroups.Object.Misc;
 
-namespace PetAdoptionsServer.Data.RescueGroups.Object.Animals
+namespace PetAdoptionsServer.Data.RescueGroups.Objects
 {
     public class Animal
     {

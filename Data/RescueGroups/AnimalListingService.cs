@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Net.Http;
 using Newtonsoft.Json.Linq;
-using PetAdoptionsServer.Data.RescueGroups.Object.Animals;
+using PetAdoptionsServer.Data.RescueGroups.Objects;
 
 namespace PetAdoptionsServer.Data.RescueGroups
 {

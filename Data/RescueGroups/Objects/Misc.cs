@@ -1,6 +1,6 @@
 using System;
 
-namespace PetAdoptionsServer.Data.RescueGroups.Object.Misc
+namespace PetAdoptionsServer.Data.RescueGroups.Objects
 {
     public class Image
     {
