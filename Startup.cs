@@ -40,6 +40,7 @@ namespace PetAdoptionsServer
         {
             if (env.IsDevelopment())
             {
+                DotNetEnv.Env.Load();
                 app.UseDeveloperExceptionPage();
             }
             else
