@@ -5,12 +5,12 @@
    "version": "0.2.0",
    "configurations": [
         {
-            "name": ".NET Core Launch (web)",
+            "name": ".NET Core Launch (Server)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/PetAdoptionsServer.dll",
+            "program": "${workspaceFolder}/src/Server/bin/Debug/netcoreapp3.1/PetAdoptions.Server.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
@@ -23,7 +23,7 @@
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
             "sourceFileMap": {
-                "/Views": "${workspaceFolder}/Views"
+                "/Views": "${workspaceFolder}/src/Server/Views"
             }
         },
         {

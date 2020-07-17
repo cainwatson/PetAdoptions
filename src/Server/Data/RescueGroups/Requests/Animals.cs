@@ -1,5 +1,5 @@
 
-namespace PetAdoptionsServer.Data.RescueGroups.Requests.Animals
+namespace PetAdoptions.Server.Data.RescueGroups.Requests.Animals
 {
     public class PublicSearch
     {

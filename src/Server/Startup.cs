@@ -9,9 +9,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using PetAdoptionsServer.Data.RescueGroups;
+using PetAdoptions.Server.Data.RescueGroups;
 
-namespace PetAdoptionsServer
+namespace PetAdoptions.Server
 {
     public class Startup
     {
@@ -40,7 +40,7 @@ namespace PetAdoptionsServer
         {
             if (env.IsDevelopment())
             {
-                DotNetEnv.Env.Load();
+                DotNetEnv.Env.Load("../../.env");
                 app.UseDeveloperExceptionPage();
             }
             else

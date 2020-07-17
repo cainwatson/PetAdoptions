@@ -37,7 +37,7 @@ There's a few ways you can start the app.
     info: Microsoft.Hosting.Lifetime[0]
           Hosting environment: Development
     info: Microsoft.Hosting.Lifetime[0]
-          Content root path: /projects/PetAdoptionsServer
+          Content root path: /projects/PetAdoptions.Server
     ```
 1. Watch Mode, recompiles on files saved (recommended)
     ```sh
@@ -52,7 +52,7 @@ There's a few ways you can start the app.
     info: Microsoft.Hosting.Lifetime[0]
           Hosting environment: Development
     info: Microsoft.Hosting.Lifetime[0]
-          Content root path: /projects/PetAdoptionsServer
+          Content root path: /projects/PetAdoptions.Server
     ```
 1. VSCode Debugger, allows setting breakpoints in code:
     - Navigate to the Debug panel in VSCode and start the `.NET Core Launch (web)` task.
