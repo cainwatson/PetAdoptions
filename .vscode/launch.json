@@ -5,14 +5,36 @@
    "version": "0.2.0",
    "configurations": [
         {
+          "name": ".NET Core Launch (Api)",
+          "type": "coreclr",
+          "request": "launch",
+          "preLaunchTask": "build Api",
+          // If you have changed target frameworks, make sure to update the program path.
+          "program": "${workspaceFolder}/src/Api/bin/Debug/netcoreapp3.1/PetAdoptions.Api.dll",
+          "args": [],
+          "cwd": "${workspaceFolder}/src/Api",
+          "stopAtEntry": false,
+          // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+          "serverReadyAction": {
+            "action": "openExternally",
+            "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+          },
+          "env": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+          },
+          "sourceFileMap": {
+            "/Views": "${workspaceFolder}/src/Api/Views"
+          }
+        },
+        {
             "name": ".NET Core Launch (Server)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "build Server",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/src/Server/bin/Debug/netcoreapp3.1/PetAdoptions.Server.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/src/Server",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {
