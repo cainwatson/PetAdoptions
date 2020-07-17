@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "tailwind build css/site.css -o css/index.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
