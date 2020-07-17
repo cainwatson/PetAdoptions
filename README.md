@@ -64,7 +64,7 @@ There's a few ways you can start the app. Each way requires you to start the Api
 1. Watch Mode, recompiles on files saved (recommended)
     Both the Api and Client can be started in watch mode where the code is recompiled on file save. This is done by using `watch run debug` instead of `run`:
     ```sh
-    $ dotnet watch run debug -p src/Api
+    $ dotnet watch -p src/Api run debug
     watch : Started
     info: Microsoft.Hosting.Lifetime[0]
           Now listening on: https://localhost:4001
