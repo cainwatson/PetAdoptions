@@ -21,13 +21,35 @@ If you are using VSCode, you should [install the C# extension](https://marketpla
 
 Create a file `.env` in the root of the project, using the contents in `.env.example`. Then, replace any variables with your own, such as `RESCUE_GROUPS_API_KEY` with your own key.
 
+### Overview
+
+The source code is broken up into a few different directories:
+- `src/Api` exposes an API for retrieving animal listings
+- `src/Client` is a Blazor WebAssembly app that calls the Api
+- `src/Server` is more of an experiment. It is separate from Api and Client in that it is a Blazor Server app that does the work of both Api and Client.
+
 ### Start
 
-There's a few ways you can start the app.
+There's a few ways you can start the app. Each way requires you to start the Api and Client separately.
 
 1. Basic
+    Start the Api in a terminal:
     ```sh
-    $ dotnet run
+    $ dotnet run -p src/Api
+    info: Microsoft.Hosting.Lifetime[0]
+          Now listening on: https://localhost:4001
+    info: Microsoft.Hosting.Lifetime[0]
+          Now listening on: http://localhost:4000
+    info: Microsoft.Hosting.Lifetime[0]
+          Application started. Press Ctrl+C to shut down.
+    info: Microsoft.Hosting.Lifetime[0]
+          Hosting environment: Development
+    info: Microsoft.Hosting.Lifetime[0]
+          Content root path: /projects/PetAdoptions/src/PetAdoptions.Api
+    ```
+    Then start the client in another terminal:
+    ```sh
+    $ dotnet run -p src/Client
     info: Microsoft.Hosting.Lifetime[0]
           Now listening on: https://localhost:5001
     info: Microsoft.Hosting.Lifetime[0]
@@ -37,24 +59,26 @@ There's a few ways you can start the app.
     info: Microsoft.Hosting.Lifetime[0]
           Hosting environment: Development
     info: Microsoft.Hosting.Lifetime[0]
-          Content root path: /projects/PetAdoptions.Server
+          Content root path: /projects/PetAdoptions/src/PetAdoptions.Client
     ```
 1. Watch Mode, recompiles on files saved (recommended)
+    Both the Api and Client can be started in watch mode where the code is recompiled on file save. This is done by using `watch run debug` instead of `run`:
     ```sh
-    $ dotnet watch run debug
+    $ dotnet watch run debug -p src/Api
     watch : Started
     info: Microsoft.Hosting.Lifetime[0]
-          Now listening on: https://localhost:5001
+          Now listening on: https://localhost:4001
     info: Microsoft.Hosting.Lifetime[0]
-          Now listening on: http://localhost:5000
+          Now listening on: http://localhost:4000
     info: Microsoft.Hosting.Lifetime[0]
           Application started. Press Ctrl+C to shut down.
     info: Microsoft.Hosting.Lifetime[0]
           Hosting environment: Development
     info: Microsoft.Hosting.Lifetime[0]
-          Content root path: /projects/PetAdoptions.Server
+          Content root path: /projects/PetAdoptions/src/PetAdoptions.Api
     ```
 1. VSCode Debugger, allows setting breakpoints in code:
-    - Navigate to the Debug panel in VSCode and start the `.NET Core Launch (web)` task.
+    - Navigate to the Debug panel in VSCode and start the `.NET Core Launch (Api)` task.
+    - There is currently not a debugger config for starting the Client, so you'll have to start the client using Basic or Watch.
 
-Once you've started the server, go to `https://localhost:5001` in your browser. You may be prompted that the website is not secure, you can safely ignore it and continue.
+Once you've started the server, go to `http://localhost:5000` in your browser.
