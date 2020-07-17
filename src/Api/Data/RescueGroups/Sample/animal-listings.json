@@ -1,0 +1,2969 @@
+{
+  "status": "warning",
+  "messages": {
+    "generalMessages": [
+      {
+        "messageID": "1027",
+        "messageCriticality": "warning",
+        "messageText": "You provided an invalid field name."
+      }
+    ],
+    "recordMessages": []
+  },
+  "foundRows": 45273,
+  "data": {
+    "13197": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "15 Years 8 Months ",
+      "animalAvailableDate": "3/10/2011",
+      "animalBreed": "Domestic Short Hair",
+      "animalDescription": "<div class=\"rgDescription\">Katie&nbsp;is a real character. She's super playful and full of funny antics. She still acts like a kitten.&nbsp; She's a quiet, low maintenance cat.&nbsp; She prances into and out of her carrier without assistance, is a good traveler, and is eager to meet each new royal adventure. She prefers to be the ruler of her own&nbsp;castle, but will tolerate other cats.&nbsp; To meet her or for more information, please call (561) 784-4792.<img src=\"https://tracker.rescuegroups.org/pet?13197&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Katie&nbsp;is a real character. She's super playful and full of funny antics. She still acts like a kitten.&nbsp; She's a quiet, low maintenance cat.&nbsp; She prances into and out of her carrier without assistance, is a good traveler, and is eager to meet each new royal adventure. She prefers to be the ruler of her own&nbsp;castle, but will tolerate other cats.&nbsp; To meet her or for more information, please call (561) 784-4792.",
+      "animalFoundDate": "",
+      "animalLocation": "33405",
+      "animalLocationCitystate": "West Palm Beach, FL",
+      "animalName": "Katie",
+      "animalPictures": [
+        {
+          "mediaID": "14275605",
+          "mediaOrder": "1",
+          "lastUpdated": "11/21/2012 5:06 PM",
+          "fileSize": "60942",
+          "resolutionX": "382",
+          "resolutionY": "333",
+          "fileNameFullsize": "14275605_382x333.jpg",
+          "fileNameThumbnail": "14275605_100x87.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_382x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_100x87.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_382x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_100x87.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "60942",
+            "resolutionX": "382",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_382x333.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "60942",
+            "resolutionX": "382",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_382x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2912",
+            "resolutionX": "100",
+            "resolutionY": "87",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/14275605_100x87.jpg"
+          }
+        },
+        {
+          "mediaID": "7743708",
+          "mediaOrder": "2",
+          "lastUpdated": "8/9/2012 5:38 PM",
+          "fileSize": "91718",
+          "resolutionX": "500",
+          "resolutionY": "750",
+          "fileNameFullsize": "7743708_500x750.jpg",
+          "fileNameThumbnail": "7743708_100x150.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_500x750.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_100x150.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_500x750.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_100x150.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "91718",
+            "resolutionX": "500",
+            "resolutionY": "750",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_500x750.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "91718",
+            "resolutionX": "500",
+            "resolutionY": "750",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_500x750.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "6091",
+            "resolutionX": "100",
+            "resolutionY": "150",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743708_100x150.jpg"
+          }
+        },
+        {
+          "mediaID": "7743712",
+          "mediaOrder": "3",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "35364",
+          "resolutionX": "500",
+          "resolutionY": "333",
+          "fileNameFullsize": "7743712_500x333.jpg",
+          "fileNameThumbnail": "7743712_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_500x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_500x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "35364",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_500x333.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "35364",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_500x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3029",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743712_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "7743713",
+          "mediaOrder": "4",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "29975",
+          "resolutionX": "500",
+          "resolutionY": "333",
+          "fileNameFullsize": "7743713_500x333.jpg",
+          "fileNameThumbnail": "7743713_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_500x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_500x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "29975",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_500x333.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "29975",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_500x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2506",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/7743713_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "1540342",
+          "mediaOrder": "5",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "19359",
+          "resolutionX": "350",
+          "resolutionY": "233",
+          "fileNameFullsize": "1540342_350x233.jpg",
+          "fileNameThumbnail": "1540342_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_350x233.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_350x233.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "19359",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_350x233.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19359",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_350x233.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2807",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540342_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "1540343",
+          "mediaOrder": "6",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "19442",
+          "resolutionX": "350",
+          "resolutionY": "233",
+          "fileNameFullsize": "1540343_350x233.jpg",
+          "fileNameThumbnail": "1540343_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_350x233.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_350x233.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "19442",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_350x233.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19442",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_350x233.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2752",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540343_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "1540338",
+          "mediaOrder": "7",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "15915",
+          "resolutionX": "350",
+          "resolutionY": "233",
+          "fileNameFullsize": "1540338_350x233.jpg",
+          "fileNameThumbnail": "1540338_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_350x233.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_350x233.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "15915",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_350x233.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "15915",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_350x233.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2684",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540338_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "1540340",
+          "mediaOrder": "8",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "23545",
+          "resolutionX": "350",
+          "resolutionY": "233",
+          "fileNameFullsize": "1540340_350x233.jpg",
+          "fileNameThumbnail": "1540340_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_350x233.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_350x233.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "23545",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_350x233.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "23545",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_350x233.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3166",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540340_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "1540341",
+          "mediaOrder": "9",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "21945",
+          "resolutionX": "350",
+          "resolutionY": "233",
+          "fileNameFullsize": "1540341_350x233.jpg",
+          "fileNameThumbnail": "1540341_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_350x233.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_350x233.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "21945",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_350x233.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "21945",
+            "resolutionX": "350",
+            "resolutionY": "233",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_350x233.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3112",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/1540341_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "20552",
+          "mediaOrder": "10",
+          "lastUpdated": "1/19/2011 12:09 PM",
+          "fileSize": "26713",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "20552_350x262.jpg",
+          "fileNameThumbnail": "20552_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "26713",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "26713",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3803",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/13/13197/20552_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "13197"
+    },
+    "14205": {
+      "animalAdoptionFee": "100.00",
+      "animalAgeString": "14 Years 10 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Torbie / Tabby",
+      "animalDescription": "<div class=\"rgDescription\">Tessie was born 8/23/2005 and is a little teaser. She is very friendly but seems to be afraid of dogs and a little intimidated by&nbsp;aggressive cats. Tessie just wants to be a lap cat and have someone play with her. She had been locked in a cage for almost a year but is now running free in a foster home.<br /><br />Although she is getting up in age, she can still be active and loves to play.&nbsp; However, you do not have to worry about her climbing your curtains or furniture because she is \"Mature\", and mature cats don't do those things.<br /><br />Tess has been in foster care since she was a baby.&nbsp; She really needs a lifetime family of her own.<br /><br />If you want more information, please send an email to <a href=\"mailto:paws@oplink.net\">paws@oplink.net</a>.&nbsp; Our website is <a href=\"http://www.pawsrescue.org/\">www.pawsrescue.org</a> where each rescued pet&nbsp;has their own webpage.<img src=\"https://tracker.rescuegroups.org/pet?14205&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Tessie was born 8/23/2005 and is a little teaser. She is very friendly but seems to be afraid of dogs and a little intimidated by&nbsp;aggressive cats. Tessie just wants to be a lap cat and have someone play with her. She had been locked in a cage for almost a year but is now running free in a foster home.Although she is getting up in age, she can still be active and loves to play.&nbsp; However, you do not have to worry about her climbing your curtains or furniture because she is \"Mature\", and mature cats don't do those things.Tess has been in foster care since she was a baby.&nbsp; She really needs a lifetime family of her own.If you want more information, please send an email to paws@oplink.net.&nbsp; Our website is www.pawsrescue.org where each rescued pet&nbsp;has their own webpage.",
+      "animalFoundDate": "",
+      "animalLocation": "77512",
+      "animalLocationCitystate": "Alvin, TX",
+      "animalName": "Tessie",
+      "animalPictures": [
+        {
+          "mediaID": "2272761",
+          "mediaOrder": "1",
+          "lastUpdated": "11/23/2008 5:12 PM",
+          "fileSize": "11622",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "2272761_350x262.jpg",
+          "fileNameThumbnail": "2272761_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "11622",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "11622",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2182",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/2272761_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "119831",
+          "mediaOrder": "2",
+          "lastUpdated": "11/23/2008 5:12 PM",
+          "fileSize": "24956",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "119831_350x262.jpg",
+          "fileNameThumbnail": "119831_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "24956",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "24956",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3553",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119831_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "119835",
+          "mediaOrder": "3",
+          "lastUpdated": "3/19/2008 2:03 PM",
+          "fileSize": "25940",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "119835_350x262.jpg",
+          "fileNameThumbnail": "119835_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "25940",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "25940",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3796",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119835_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "119838",
+          "mediaOrder": "4",
+          "lastUpdated": "3/19/2008 2:03 PM",
+          "fileSize": "21784",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "119838_350x262.jpg",
+          "fileNameThumbnail": "119838_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "21784",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "21784",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3419",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/124/pictures/animals/14/14205/119838_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Torbie",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "14205"
+    },
+    "19899": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "4 Years 11 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Short Hair (short coat)",
+      "animalDescription": "<div class=\"rgDescription\"><p><span style=\"color:#FF0000;\">DISPONIBLE POUR PARRAINAGE SEULEMENT</span></p>\r\n\r\n<p>Spooky est un chat tr&egrave;s sociable et gentil. Il est affectueux et joueur! Il a malheureusement un cancer en phase terminal et a donc &eacute;t&eacute; plac&eacute; dans une famille d&#39;accueil pour recevoir les meilleurs soins et tout l&#39;amour qu&#39;il m&eacute;rite.</p>\r\n\r\n<p><span style=\"color:#FF0000;\">ONLY AVAILABLE FOR SPONSORSHIP</span></p>\r\n\r\n<p>Spooky is a really social and kind cat. He is affectionate and playful! However, he has a terminal cancer and therefore he was placed in a foster family where he can receive the best care and all the love that he deserves.</p><img src=\"https://tracker.rescuegroups.org/pet?19899&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "DISPONIBLE POUR PARRAINAGE SEULEMENT\r\n\r\nSpooky est un chat tr&egrave;s sociable et gentil. Il est affectueux et joueur! Il a malheureusement un cancer en phase terminal et a donc &eacute;t&eacute; plac&eacute; dans une famille d&#39;accueil pour recevoir les meilleurs soins et tout l&#39;amour qu&#39;il m&eacute;rite.\r\n\r\nONLY AVAILABLE FOR SPONSORSHIP\r\n\r\nSpooky is a really social and kind cat. He is affectionate and playful! However, he has a terminal cancer and therefore he was placed in a foster family where he can receive the best care and all the love that he deserves.",
+      "animalFoundDate": "",
+      "animalLocation": "H2L 4Y5",
+      "animalLocationCitystate": "Montreal, QC",
+      "animalName": "Spooky",
+      "animalPictures": [
+        {
+          "mediaID": "68707156",
+          "mediaOrder": "1",
+          "lastUpdated": "10/7/2019 12:06 PM",
+          "fileSize": "41500",
+          "resolutionX": "500",
+          "resolutionY": "750",
+          "fileNameFullsize": "68707156_500x750.jpg",
+          "fileNameThumbnail": "68707156_100x150.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_500x750.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_100x150.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_500x750.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_100x150.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "140456",
+            "resolutionX": "640",
+            "resolutionY": "960",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_640x960.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "41500",
+            "resolutionX": "500",
+            "resolutionY": "750",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_500x750.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3975",
+            "resolutionX": "100",
+            "resolutionY": "150",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/68707156_100x150.jpg"
+          }
+        },
+        {
+          "mediaID": "72559497",
+          "mediaOrder": "2",
+          "lastUpdated": "5/13/2020 1:21 PM",
+          "fileSize": "36202",
+          "resolutionX": "500",
+          "resolutionY": "749",
+          "fileNameFullsize": "72559497_500x749.jpg",
+          "fileNameThumbnail": "72559497_100x149.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_500x749.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_100x149.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_500x749.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_100x149.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "72829",
+            "resolutionX": "640",
+            "resolutionY": "959",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_640x959.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "36202",
+            "resolutionX": "500",
+            "resolutionY": "749",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_500x749.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3307",
+            "resolutionX": "100",
+            "resolutionY": "149",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/52/pictures/animals/19/19899/72559497_100x149.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "19899"
+    },
+    "20408": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "15 Years 2 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Short Hair",
+      "animalDescription": "<div class=\"rgDescription\">Hello, my name is Nancy. I guess I was named after Nancy Drew because I'm very inquisitive and always checking things out. I also love to play with my toys and I especially like catnip. <br /><br />Nancy is a little shy at first, but then is very affectionate and gets along with everyone and is incredibly sweet!<br /><br />**Please Note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies, please go to <a href=\"http://www.petrescueofmd.org/info/adoption\">http://www.petrescueofmd.org/info/adoption</a><br /><br /><img src=\"https://tracker.rescuegroups.org/pet?20408&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Hello, my name is Nancy. I guess I was named after Nancy Drew because I'm very inquisitive and always checking things out. I also love to play with my toys and I especially like catnip. Nancy is a little shy at first, but then is very affectionate and gets along with everyone and is incredibly sweet!**Please Note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies, please go to http://www.petrescueofmd.org/info/adoption",
+      "animalFoundDate": "",
+      "animalLocation": "21111",
+      "animalLocationCitystate": "Monkton, MD",
+      "animalName": "Nancy",
+      "animalPictures": [
+        {
+          "mediaID": "12754382",
+          "mediaOrder": "1",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "70529",
+          "resolutionX": "350",
+          "resolutionY": "364",
+          "fileNameFullsize": "12754382_350x364.jpg",
+          "fileNameThumbnail": "12754382_100x104.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_350x364.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_100x104.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_350x364.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_100x104.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "70529",
+            "resolutionX": "350",
+            "resolutionY": "364",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_350x364.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "70529",
+            "resolutionX": "350",
+            "resolutionY": "364",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_350x364.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3730",
+            "resolutionX": "100",
+            "resolutionY": "104",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/12754382_100x104.jpg"
+          }
+        },
+        {
+          "mediaID": "174634",
+          "mediaOrder": "2",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "234148",
+          "resolutionX": "350",
+          "resolutionY": "381",
+          "fileNameFullsize": "174634_350x381.jpg",
+          "fileNameThumbnail": "174634_100x108.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_350x381.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_100x108.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_350x381.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_100x108.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "234148",
+            "resolutionX": "350",
+            "resolutionY": "381",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_350x381.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "234148",
+            "resolutionX": "350",
+            "resolutionY": "381",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_350x381.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4393",
+            "resolutionX": "100",
+            "resolutionY": "108",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174634_100x108.jpg"
+          }
+        },
+        {
+          "mediaID": "174635",
+          "mediaOrder": "3",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "171735",
+          "resolutionX": "350",
+          "resolutionY": "265",
+          "fileNameFullsize": "174635_350x265.jpg",
+          "fileNameThumbnail": "174635_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_350x265.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_350x265.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "171735",
+            "resolutionX": "350",
+            "resolutionY": "265",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_350x265.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "171735",
+            "resolutionX": "350",
+            "resolutionY": "265",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_350x265.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3041",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174635_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "174636",
+          "mediaOrder": "4",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "226354",
+          "resolutionX": "350",
+          "resolutionY": "412",
+          "fileNameFullsize": "174636_350x412.jpg",
+          "fileNameThumbnail": "174636_100x117.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_350x412.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_100x117.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_350x412.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_100x117.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "226354",
+            "resolutionX": "350",
+            "resolutionY": "412",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_350x412.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "226354",
+            "resolutionX": "350",
+            "resolutionY": "412",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_350x412.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4359",
+            "resolutionX": "100",
+            "resolutionY": "117",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/174636_100x117.jpg"
+          }
+        },
+        {
+          "mediaID": "555588",
+          "mediaOrder": "5",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "236307",
+          "resolutionX": "350",
+          "resolutionY": "404",
+          "fileNameFullsize": "555588_350x404.jpg",
+          "fileNameThumbnail": "555588_100x115.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_350x404.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_100x115.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_350x404.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_100x115.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "236307",
+            "resolutionX": "350",
+            "resolutionY": "404",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_350x404.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "236307",
+            "resolutionX": "350",
+            "resolutionY": "404",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_350x404.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4267",
+            "resolutionX": "100",
+            "resolutionY": "115",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555588_100x115.jpg"
+          }
+        },
+        {
+          "mediaID": "555589",
+          "mediaOrder": "6",
+          "lastUpdated": "8/21/2012 12:54 PM",
+          "fileSize": "149881",
+          "resolutionX": "350",
+          "resolutionY": "207",
+          "fileNameFullsize": "555589_350x207.jpg",
+          "fileNameThumbnail": "555589_100x59.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_350x207.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_100x59.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_350x207.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_100x59.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "149881",
+            "resolutionX": "350",
+            "resolutionY": "207",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_350x207.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "149881",
+            "resolutionX": "350",
+            "resolutionY": "207",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_350x207.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2878",
+            "resolutionX": "100",
+            "resolutionY": "59",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/20/20408/555589_100x59.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "20408"
+    },
+    "44418": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Medium Hair",
+      "animalDescription": "<div class=\"rgHeader\"><p>RescueCats, Inc.</p><br></div><div class=\"rgDescription\"><p>&nbsp;</p>\r\n<h1 style=\"color: #0000ff; font-family: Verdana;\" align=\"center\"><strong style=\"color: #333399;\"><span style=\"color: #0000ff; font-family: Arial; font-size: 12pt;\"><span style=\"font-family: Arial; font-size: 12pt; color: #333399;\"><span style=\"color: #333399; font-family: Verdana; font-size: 12pt;\"><a style=\"font-size: 14pt; color: #6633cc; font-family: Arial;\" href=\"http://www.rescuecats.org/Adoption/Adoption.Center\"><span style=\"color: #800000;\">Adoption Center - All Week</span></a></span></span></span></strong></h1>\r\n<div style=\"font-family: Verdana; color: #0000ff;\" align=\"center\"><span style=\"color: #0000ff; font-size: 14pt;\"><strong><span style=\"color: #000080; font-family: arial,helvetica,sans-serif;\">(I-75/Mt Zion Rd) 1986 Mount Zion Rd</span><span style=\"color: #000080; font-family: arial,helvetica,sans-serif;\">- </span><span style=\"color: #000080; font-family: arial,helvetica,sans-serif;\">Morrow, GA 30260</span></strong></span></div>\r\n<div style=\"font-family: Verdana; color: #0000ff;\" align=\"center\">\r\n<div style=\"color: #993366;\">\r\n<p style=\"color: #0000ff; font-size: 12pt; font-family: Arial;\" align=\"center\"><strong><span style=\"color: #0000ff; font-family: Verdana;\"><span style=\"text-decoration: underline; font-size: 12pt; color: #0000ff;\">Saturday 7/4/20 thru Saturday 7/11/20-</span></span></strong></p>\r\n<p style=\"font-size: 12pt; font-family: Arial;\"><strong style=\"font-size: 14pt; font-family: Verdana; color: #0000ff;\"><span style=\"color: #0000ff; font-family: Arial; font-size: 14pt; text-decoration: underline;\">Meet and adopt:</span>&nbsp;</strong></p>\r\n<span style=\"font-size: 14pt;\"><span style=\"left: 222.427px; top: 429.386px; font-size: 21.28px; font-family: sans-serif; transform: scaleX(1.03463);\">KUMAR, ELI, SASHA, ATHENA, AUROR</span>A</span></div>\r\n</div>\r\n<div style=\"font-family: Verdana; color: #0000ff;\" align=\"center\"><br />&nbsp;</div>\r\n<div style=\"font-size: 14pt; font-family: Verdana; color: #0000ff; text-align: center;\" align=\"center\">\r\n<p align=\"center\"><img src=\"https://server2.charityadvantageservers.com/client/RescueCatsInc._G8A3EWXJ/IMG_9838.JPG\" alt=\"\" width=\"1024\" height=\"768\" /></p>\r\n<br />\r\n<div style=\"left: 805.767px; top: 1335.47px; font-size: 23.4px; font-family: sans-serif; transform: scaleX(0.992613);\">&nbsp;</div>\r\n</div>\r\n<div style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong>WEEKEND Adoption Fair-&nbsp;</strong></span></div>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">PETsMART, Morrow, GA - 1986 Mt. Zion Road</span></p>\r\n<div style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong>Adoption Fairs held at the Morrow PETSMART each Saturday from 11:00am - 4:00pm</strong>&nbsp;- featuring 15-20 adoptable cats.</span></div>\r\n<div style=\"text-align: center;\"><span style=\"font-size: 12pt;\">&nbsp;</span></div>\r\n<div style=\"text-align: center;\"><span style=\"font-size: 12pt;\">&nbsp;</span></div>\r\n<div style=\"text-align: center;\">\r\n<div style=\"color: #993366; font-size: 10pt;\"><span style=\"font-size: 12pt;\">To make sure the cat or kitten of your dreams does not slip through your fingers.</span></div>\r\n<div style=\"color: #993366; font-size: 10pt;\"><span style=\"font-size: 12pt;\">1) Fill out an adoption form &nbsp;2) Call RescueCats at 678-817-9647 or Jerri at 404-304&ndash;9210 to make sure the kitty is still available or e-mail rescuecats@hotmail.com or Jerri at JerriClay@gmail.com &nbsp;3) After receiving confirmation, a deposit of at least $50/cat or kitten plus a $3.00 PayPal fee is required and can be made online using PayPal. A link can be found at the bottom of the adoption form. 4. Don't have a PayPal account? You can either mail a money order to RescueCats, Inc PO Box 142882 Fayetteville Ga 30214, include the name(s) of the kitty/kitties. Another option is to bring the deposit in CASH to PETsMART in Morrow at the adoption fair every Saturday from 11AM to 4 PM. Please Note 1. All deposits are absolutely not refundable 2. Should the cat of your choice be no longer available, you will be given first choice of all available cats or wait and select among any new arrivals. 3. Priority is given to anyone willing to adopt more than one cat/kitten. Kittens, especially very small kittens, are much much happier when adopted with a sibling or buddy. 4. By the time most kittens are old enough to leave their foster homes, they have all been tested for FIV/FeLV, treated for worms, fleas and ear mites, spayed/neutered and immunized as appropriate for their age. All of which would cost well over $200 if paid directly to a vet.// Age and Size Guide: Baby: 0-6 months. Young: 6-24 months. Adult: 2-10 years. Senior: over 10 years. Small: 0-6 pounds. Medium: 7-12 pounds. Large: 13 - 25 pounds. Extra Large: over 25 pounds. If you don't see what you're looking for, please call and ask because we may have what you want. Adoption fees range from $110-$250.</span></div>\r\n<div style=\"color: #993366; font-size: 10pt;\">\r\n<div class=\"content\" style=\"padding: 0px; margin: 0px; color: #333333; font-family: 'Lucida Grande', 'Lucida Sans Unicode', helvetica, verdana, arial, sans-serif; font-size: 12.222222328186035px; line-height: 13.333333969116211px; text-align: left;\">\r\n<h2 class=\"nodeTitle\" style=\"padding: 0px; margin: 0px 0px 10px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: lighter; letter-spacing: 0px; font-size: 1.7em; line-height: 1.2em;\"><span style=\"font-size: 12pt;\">&nbsp;</span></h2>\r\n<div>&nbsp;</div>\r\n<div><span><span><strong><span style=\"font-size: 12pt;\">This is what you get when you adopt a kitty from RescueCats:</span><br /> <span style=\"font-size: 12pt;\"> A kitten or a cat that has been spayed or neutered, treated for fleas &amp; worms, microchipped, vaccinated for RCP &amp; Rabies(if old enough) &amp; tested negative for FeLV/FIV, and some older kitties have had dental cleanings.</span><br /></strong></span></span>\r\n<div>&nbsp;</div>\r\n<div><span style=\"font-size: 12pt;\">&nbsp;</span></div>\r\n<div style=\"font-family: Arial; font-size: 14pt;\"><a style=\"font-size: 12pt;\" title=\"Adoption Gift\" href=\"https://www.petfinder.com/user/did-you-adopt/apply/PF-PM-02/?icid=modal_dyaoffer\">Adoption Gift from PETSMART</a><br /> <span style=\"font-size: 12pt;\"> *NEW ADOPTERS get UP TO $550 WORTH OF SAVINGS from the PETSMART ADOPTION STARTER KIT(SAVINGS BOOK WITH COUPONS): <span style=\"font-size: 12pt;\">Coupons for most of the needed supplies.</span></span><br /> <span style=\"font-size: 12pt;\"> *Free small bag of SIMPLY NOURISH, AUTHORITY OR ONLY NATURAL PET food...</span><span style=\"font-size: 12pt;\"><br /> *50% OFF EXQUISICAT OR GREAT CHOICE CAT LITTER...<br /> AND MANY MORE COUPONS.<br /> *Free 30-minute private session with a PetSmart&reg; - Accredited Pet Trainer (dogs only)<br /> </span></div>\r\n<div>&nbsp;</div>\r\n<div>PLUS we give you:</div>\r\n<div>&nbsp;</div>\r\n<div><span style=\"font-size: 12pt;\">Animal Planet DVD <br /> Advantage II Offer<br /> Scratching Pad Offer<br /> Cat Attract Litter Coupons<br /> Free Cardboard Carrier <br /> Free cat bed with blanket and toy, or emergency backpack (while supplies last).</span></div>\r\n<span><strong><br /></strong></span></div>\r\n<h2 class=\"nodeTitle\" style=\"padding: 0px; margin: 0px 0px 10px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: lighter; letter-spacing: 0px; font-size: 1.7em; line-height: 1.2em;\"><span style=\"font-size: 12pt;\">&nbsp;</span></h2>\r\n<div class=\"content\" style=\"padding: 0px; margin: 0px;\">\r\n<p><span style=\"font-size: 12pt;\">&nbsp;</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"EC_MsoNormal\">\r\n<div class=\"linksteaser\">\r\n<div class=\"sticky node\">\r\n<div class=\"content\" style=\"color: #993366; font-size: 10pt;\">\r\n<p class=\"ecxMsoNormal\"><span style=\"font-size: 12pt;\">&nbsp;</span></p>\r\n<p><span style=\"font-size: 12pt;\">&nbsp;</span></p>\r\n<span style=\"font-size: 12pt;\">&nbsp;</span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">&nbsp;</span></p><img src=\"https://tracker.rescuegroups.org/pet?44418&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br><p>www.rescuecats.org</p></div>",
+      "animalDescriptionPlain": "&nbsp;\r\nAdoption Center - All Week\r\n(I-75/Mt Zion Rd) 1986 Mount Zion Rd- Morrow, GA 30260\r\n\r\n\r\nSaturday 7/4/20 thru Saturday 7/11/20-\r\nMeet and adopt:&nbsp;\r\nKUMAR, ELI, SASHA, ATHENA, AURORA\r\n\r\n&nbsp;\r\n\r\n\r\n\r\n&nbsp;\r\n\r\nWEEKEND Adoption Fair-&nbsp;\r\nPETsMART, Morrow, GA - 1986 Mt. Zion Road\r\nAdoption Fairs held at the Morrow PETSMART each Saturday from 11:00am - 4:00pm&nbsp;- featuring 15-20 adoptable cats.\r\n&nbsp;\r\n&nbsp;\r\n\r\nTo make sure the cat or kitten of your dreams does not slip through your fingers.\r\n1) Fill out an adoption form &nbsp;2) Call RescueCats at 678-817-9647 or Jerri at 404-304&ndash;9210 to make sure the kitty is still available or e-mail rescuecats@hotmail.com or Jerri at JerriClay@gmail.com &nbsp;3) After receiving confirmation, a deposit of at least $50/cat or kitten plus a $3.00 PayPal fee is required and can be made online using PayPal. A link can be found at the bottom of the adoption form. 4. Don't have a PayPal account? You can either mail a money order to RescueCats, Inc PO Box 142882 Fayetteville Ga 30214, include the name(s) of the kitty/kitties. Another option is to bring the deposit in CASH to PETsMART in Morrow at the adoption fair every Saturday from 11AM to 4 PM. Please Note 1. All deposits are absolutely not refundable 2. Should the cat of your choice be no longer available, you will be given first choice of all available cats or wait and select among any new arrivals. 3. Priority is given to anyone willing to adopt more than one cat/kitten. Kittens, especially very small kittens, are much much happier when adopted with a sibling or buddy. 4. By the time most kittens are old enough to leave their foster homes, they have all been tested for FIV/FeLV, treated for worms, fleas and ear mites, spayed/neutered and immunized as appropriate for their age. All of which would cost well over $200 if paid directly to a vet.// Age and Size Guide: Baby: 0-6 months. Young: 6-24 months. Adult: 2-10 years. Senior: over 10 years. Small: 0-6 pounds. Medium: 7-12 pounds. Large: 13 - 25 pounds. Extra Large: over 25 pounds. If you don't see what you're looking for, please call and ask because we may have what you want. Adoption fees range from $110-$250.\r\n\r\n\r\n&nbsp;\r\n&nbsp;\r\nThis is what you get when you adopt a kitty from RescueCats:  A kitten or a cat that has been spayed or neutered, treated for fleas &amp; worms, microchipped, vaccinated for RCP &amp; Rabies(if old enough) &amp; tested negative for FeLV/FIV, and some older kitties have had dental cleanings.\r\n&nbsp;\r\n&nbsp;\r\nAdoption Gift from PETSMART  *NEW ADOPTERS get UP TO $550 WORTH OF SAVINGS from the PETSMART ADOPTION STARTER KIT(SAVINGS BOOK WITH COUPONS): Coupons for most of the needed supplies.  *Free small bag of SIMPLY NOURISH, AUTHORITY OR ONLY NATURAL PET food... *50% OFF EXQUISICAT OR GREAT CHOICE CAT LITTER... AND MANY MORE COUPONS. *Free 30-minute private session with a PetSmart&reg; - Accredited Pet Trainer (dogs only) \r\n&nbsp;\r\nPLUS we give you:\r\n&nbsp;\r\nAnimal Planet DVD  Advantage II Offer Scratching Pad Offer Cat Attract Litter Coupons Free Cardboard Carrier  Free cat bed with blanket and toy, or emergency backpack (while supplies last).\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&nbsp;\r\n&nbsp;\r\n&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&nbsp;",
+      "animalFoundDate": "",
+      "animalLocation": "30214",
+      "animalLocationCitystate": "Fayetteville, GA",
+      "animalName": "ADOPTION-Read First",
+      "animalPictures": [
+        {
+          "mediaID": "73281114",
+          "mediaOrder": "1",
+          "lastUpdated": "7/6/2020 11:22 AM",
+          "fileSize": "37773",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "73281114_500x500.jpg",
+          "fileNameThumbnail": "73281114_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "2438178",
+            "resolutionX": "3024",
+            "resolutionY": "3024",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_3024x3024.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "37773",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3015",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/73281114_100x100.jpg"
+          }
+        },
+        {
+          "mediaID": "72736972",
+          "mediaOrder": "2",
+          "lastUpdated": "7/6/2020 11:22 AM",
+          "fileSize": "30347",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "72736972_500x500.jpg",
+          "fileNameThumbnail": "72736972_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "1811592",
+            "resolutionX": "3024",
+            "resolutionY": "3024",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_3024x3024.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "30347",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2626",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736972_100x100.jpg"
+          }
+        },
+        {
+          "mediaID": "72736973",
+          "mediaOrder": "3",
+          "lastUpdated": "7/6/2020 11:22 AM",
+          "fileSize": "24890",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "72736973_500x500.jpg",
+          "fileNameThumbnail": "72736973_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "1674942",
+            "resolutionX": "3024",
+            "resolutionY": "3024",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_3024x3024.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "24890",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2696",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/72736973_100x100.jpg"
+          }
+        },
+        {
+          "mediaID": "51287260",
+          "mediaOrder": "4",
+          "lastUpdated": "7/6/2020 11:22 AM",
+          "fileSize": "43278",
+          "resolutionX": "500",
+          "resolutionY": "525",
+          "fileNameFullsize": "51287260_500x525.jpg",
+          "fileNameThumbnail": "51287260_100x105.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_500x525.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_100x105.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_500x525.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_100x105.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "43440",
+            "resolutionX": "514",
+            "resolutionY": "540",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_514x540.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "43278",
+            "resolutionX": "500",
+            "resolutionY": "525",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_500x525.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4018",
+            "resolutionX": "100",
+            "resolutionY": "105",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/51287260_100x105.jpg"
+          }
+        },
+        {
+          "mediaID": "19771523",
+          "mediaOrder": "5",
+          "lastUpdated": "7/6/2020 11:22 AM",
+          "fileSize": "62478",
+          "resolutionX": "500",
+          "resolutionY": "375",
+          "fileNameFullsize": "19771523_500x375.jpg",
+          "fileNameThumbnail": "19771523_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_500x375.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_500x375.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "2769522",
+            "resolutionX": "3264",
+            "resolutionY": "2448",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_3264x2448.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "62478",
+            "resolutionX": "500",
+            "resolutionY": "375",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_500x375.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4167",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/308/pictures/animals/44/44418/19771523_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Medium Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "44418"
+    },
+    "79811": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "13 Years 10 Months ",
+      "animalAvailableDate": "5/17/2020",
+      "animalBreed": "Domestic Short Hair / Calico (short coat)",
+      "animalDescription": "<div class=\"rgDescription\"><span style=\"font-size: 12pt;\">Gracie was adopted out as a kitten with her sister and recently lost her sister, and then her adoptive mom who loved her dearly.&nbsp; Gracie's good with dogs and is very sweet. </span><br /><br /><span style=\"font-size: 12pt;\">Please fill out an on-line application if interested in this sweet cat, and a volunteer will get back to you.&nbsp; Her owner was our special friend and we are eager to give Gracie a wonderful home.</span><img src=\"https://tracker.rescuegroups.org/pet?79811&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Gracie was adopted out as a kitten with her sister and recently lost her sister, and then her adoptive mom who loved her dearly.&nbsp; Gracie's good with dogs and is very sweet. Please fill out an on-line application if interested in this sweet cat, and a volunteer will get back to you.&nbsp; Her owner was our special friend and we are eager to give Gracie a wonderful home.",
+      "animalFoundDate": "",
+      "animalLocation": "33405",
+      "animalLocationCitystate": "West Palm Beach, FL",
+      "animalName": "Gracie",
+      "animalPictures": [
+        {
+          "mediaID": "72616302",
+          "mediaOrder": "1",
+          "lastUpdated": "5/17/2020 6:54 PM",
+          "fileSize": "20027",
+          "resolutionX": "300",
+          "resolutionY": "400",
+          "fileNameFullsize": "72616302_300x400.jpg",
+          "fileNameThumbnail": "72616302_100x133.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_300x400.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_100x133.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_300x400.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_100x133.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "20027",
+            "resolutionX": "300",
+            "resolutionY": "400",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_300x400.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "20027",
+            "resolutionX": "300",
+            "resolutionY": "400",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_300x400.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3492",
+            "resolutionX": "100",
+            "resolutionY": "133",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72616302_100x133.jpg"
+          }
+        },
+        {
+          "mediaID": "134566",
+          "mediaOrder": "2",
+          "lastUpdated": "5/17/2020 6:54 PM",
+          "fileSize": "24193",
+          "resolutionX": "500",
+          "resolutionY": "469",
+          "fileNameFullsize": "134566_500x469.jpg",
+          "fileNameThumbnail": "134566_100x93.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_500x469.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_100x93.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_500x469.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_100x93.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "24193",
+            "resolutionX": "500",
+            "resolutionY": "469",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_500x469.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "24193",
+            "resolutionX": "500",
+            "resolutionY": "469",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_500x469.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2784",
+            "resolutionX": "100",
+            "resolutionY": "93",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134566_100x93.jpg"
+          }
+        },
+        {
+          "mediaID": "134567",
+          "mediaOrder": "3",
+          "lastUpdated": "5/17/2020 6:54 PM",
+          "fileSize": "12942",
+          "resolutionX": "350",
+          "resolutionY": "313",
+          "fileNameFullsize": "134567_350x313.jpg",
+          "fileNameThumbnail": "134567_100x89.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_350x313.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_100x89.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_350x313.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_100x89.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "12942",
+            "resolutionX": "350",
+            "resolutionY": "313",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_350x313.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "12942",
+            "resolutionX": "350",
+            "resolutionY": "313",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_350x313.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2505",
+            "resolutionX": "100",
+            "resolutionY": "89",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134567_100x89.jpg"
+          }
+        },
+        {
+          "mediaID": "134569",
+          "mediaOrder": "4",
+          "lastUpdated": "5/17/2020 6:54 PM",
+          "fileSize": "11730",
+          "resolutionX": "350",
+          "resolutionY": "268",
+          "fileNameFullsize": "134569_350x268.jpg",
+          "fileNameThumbnail": "134569_100x76.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_350x268.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_100x76.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_350x268.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_100x76.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "11730",
+            "resolutionX": "350",
+            "resolutionY": "268",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_350x268.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "11730",
+            "resolutionX": "350",
+            "resolutionY": "268",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_350x268.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2451",
+            "resolutionX": "100",
+            "resolutionY": "76",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/134569_100x76.jpg"
+          }
+        },
+        {
+          "mediaID": "72755944",
+          "mediaOrder": "5",
+          "lastUpdated": "5/29/2020 2:21 AM",
+          "fileSize": "18535",
+          "resolutionX": "500",
+          "resolutionY": "375",
+          "fileNameFullsize": "72755944_500x375.jpg",
+          "fileNameThumbnail": "72755944_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_500x375.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_500x375.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "2897207",
+            "resolutionX": "4032",
+            "resolutionY": "3024",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_4032x3024.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "18535",
+            "resolutionX": "500",
+            "resolutionY": "375",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_500x375.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2051",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/112/pictures/animals/79/79811/72755944_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "79811"
+    },
+    "97557": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Boxer / Terrier / Mixed (short coat)",
+      "animalDescription": "<div class=\"rgHeader\"><p>Happy Hills Animal Foundation, Inc</p>\r\n<p>www.hhaf.org</p><br></div><div class=\"rgDescription\"><p>Hello.............My name is Tawny and I am a Feist mix. I would love to come home with you and give you lots of attention. I'd like to have someone that would give me lots of attention in return. I am very playful and energetic. Tawny is a very loving girl that would do well with children. She is playful with other dogs.<br /><br />Adoption Fee Waived<br />Apply Today</p><img src=\"https://tracker.rescuegroups.org/pet?97557&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br><p>336-622-3620</p>\r\n<p>office@hhaf.org</p></div>",
+      "animalDescriptionPlain": "Hello.............My name is Tawny and I am a Feist mix. I would love to come home with you and give you lots of attention. I'd like to have someone that would give me lots of attention in return. I am very playful and energetic. Tawny is a very loving girl that would do well with children. She is playful with other dogs.Adoption Fee WaivedApply Today",
+      "animalFoundDate": "",
+      "animalLocation": "27355",
+      "animalLocationCitystate": "Staley, NC",
+      "animalName": "Tawny",
+      "animalPictures": [
+        {
+          "mediaID": "10365871",
+          "mediaOrder": "1",
+          "lastUpdated": "3/21/2013 2:32 PM",
+          "fileSize": "74998",
+          "resolutionX": "500",
+          "resolutionY": "763",
+          "fileNameFullsize": "10365871_500x763.jpg",
+          "fileNameThumbnail": "10365871_100x152.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_500x763.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_100x152.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_500x763.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_100x152.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "74998",
+            "resolutionX": "500",
+            "resolutionY": "763",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_500x763.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "74998",
+            "resolutionX": "500",
+            "resolutionY": "763",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_500x763.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4962",
+            "resolutionX": "100",
+            "resolutionY": "152",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365871_100x152.jpg"
+          }
+        },
+        {
+          "mediaID": "10365872",
+          "mediaOrder": "2",
+          "lastUpdated": "3/21/2013 2:32 PM",
+          "fileSize": "73220",
+          "resolutionX": "500",
+          "resolutionY": "700",
+          "fileNameFullsize": "10365872_500x700.jpg",
+          "fileNameThumbnail": "10365872_100x140.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_500x700.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_100x140.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_500x700.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_100x140.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "73220",
+            "resolutionX": "500",
+            "resolutionY": "700",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_500x700.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "73220",
+            "resolutionX": "500",
+            "resolutionY": "700",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_500x700.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "5239",
+            "resolutionX": "100",
+            "resolutionY": "140",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/10365872_100x140.jpg"
+          }
+        },
+        {
+          "mediaID": "15574765",
+          "mediaOrder": "3",
+          "lastUpdated": "3/21/2013 2:32 PM",
+          "fileSize": "74495",
+          "resolutionX": "500",
+          "resolutionY": "794",
+          "fileNameFullsize": "15574765_500x794.jpg",
+          "fileNameThumbnail": "15574765_100x158.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_500x794.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_100x158.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_500x794.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_100x158.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "74495",
+            "resolutionX": "500",
+            "resolutionY": "794",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_500x794.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "74495",
+            "resolutionX": "500",
+            "resolutionY": "794",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_500x794.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "6087",
+            "resolutionX": "100",
+            "resolutionY": "158",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574765_100x158.jpg"
+          }
+        },
+        {
+          "mediaID": "15574766",
+          "mediaOrder": "4",
+          "lastUpdated": "3/21/2013 2:32 PM",
+          "fileSize": "38502",
+          "resolutionX": "500",
+          "resolutionY": "532",
+          "fileNameFullsize": "15574766_500x532.jpg",
+          "fileNameThumbnail": "15574766_100x106.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_500x532.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_100x106.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_500x532.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_100x106.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "38502",
+            "resolutionX": "500",
+            "resolutionY": "532",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_500x532.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "38502",
+            "resolutionX": "500",
+            "resolutionY": "532",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_500x532.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3613",
+            "resolutionX": "100",
+            "resolutionY": "106",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/619/pictures/animals/97/97557/15574766_100x106.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Boxer",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "97557"
+    },
+    "121598": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Mastiff",
+      "animalDescription": "<div class=\"rgHeader\"><div style=\"text-align: center;\">&nbsp;</div>\r\n<div style=\"text-align: center;\">&nbsp;</div>\r\n<div style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><strong><span style=\"color: #ff0000; font-size: 12pt;\">PLEASE NOTE</span>:</strong> <strong>GPMR communicates primarily by email.&nbsp; If you have any questions regarding one of our Mastiffs, please read their bio and if you still have questions- drop us an email at </strong></span><a href=\"mailto:info@greatplainsmastiffrescue.org\"><span style=\"font-size: 10pt;\"><strong>info@greatplainsmastiffrescue.org</strong></span></a><span style=\"font-size: 10pt;\"><strong> .&nbsp; If you have questions about our adoption procedures, please go to our Pages of Interest on the left hand column under \"</strong><a href=\"/info/adoption\"><strong>Adoption Info</strong></a><strong>.\"&nbsp; We answer email inquiries almost immediately-usually always within a few hours and phone calls are returned with 24-36 hours.&nbsp;</strong></span></div>\r\n<div style=\"text-align: center;\">&nbsp;</div>\r\n<div style=\"text-align: center;\"><strong><span style=\"font-size: 10pt;\">GPMR does not have a shelter. All of our dogs are kept in loving foster homes. We must have a completed adoption</span></strong></div>\r\n<div style=\"text-align: center;\"><strong><span style=\"font-size: 10pt;\">application on file before meeting any of our mastiffs. </span></strong></div>\r\n<div style=\"text-align: center;\"><strong><span style=\"font-size: 10pt;\">&nbsp;</span></strong>&nbsp;</div>\r\n<div style=\"text-align: center;\"><strong><span style=\"font-size: 10pt;\">GPMR adopts to the states of Oklahoma, Texas, Kansas, Arkansas, Missouri, Louisiana and parts of Colorado.&nbsp;</span></strong></div>\r\n<div style=\"text-align: center;\"><strong><span style=\"font-size: 10pt;\">!!!Any mastiffs being adopted out of the state of Oklahoma require a health certificate to be paid for by the adopter!!!</span></strong></div>\r\n<div style=\"text-align: center;\"><a href=\"http://adopt-a-mastiff.1-800-save-a-pet.com/\"></a>&nbsp;</div>\r\n<br /> <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\r\n<p>&nbsp;</p>\r\n<img src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" border=\"0\" alt=\"\" width=\"1\" height=\"1\" /> </form><!-- Begin Pay Pal Donation Button --> <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">&nbsp; <!-- End Pay Pal Donation Button --></form><br></div><div class=\"rgDescription\"><p>Need Volunteers for Fostering:</p>\r\n<p>GPMR does not have a shelter or facility where we can house Mastiffs when they come into rescue. We are able to take Mastiffs into rescue because of our caring volunteers who foster those Mastiffs until they can find their forever home. <br /><br />IF YOU CAN HELP FOSTER, OR VOLUNTEER IN ANY WAY, PLEASE FILL OUT OUR ONLINE VOLUNTEER AND/OR FOSTER FORM. WE NEED DEDICATED VOLUNTEERS SO WE CAN HELP MORE MASTIFFS IN NEED.<br /> <br /> THANK YOU!<br /><br />Note: the dog pictured is a previously adopted dog - please go to&nbsp;&nbsp; <a href=\"http://www.greatplainsmastiffrescue.org/animals/list?Status=Available\">http://www.greatplainsmastiffrescue.org/animals/list?Status=Available</a><br />for the current list of dogs, and there are always dogs waiting to come into the rescue when we have a foster home available - please consider fostering tday!</p><img src=\"https://tracker.rescuegroups.org/pet?121598&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br>Save a Mastiff...Adopt, Foster, Volunteer!</div>",
+      "animalDescriptionPlain": "Need Volunteers for Fostering:\r\nGPMR does not have a shelter or facility where we can house Mastiffs when they come into rescue. We are able to take Mastiffs into rescue because of our caring volunteers who foster those Mastiffs until they can find their forever home. IF YOU CAN HELP FOSTER, OR VOLUNTEER IN ANY WAY, PLEASE FILL OUT OUR ONLINE VOLUNTEER AND/OR FOSTER FORM. WE NEED DEDICATED VOLUNTEERS SO WE CAN HELP MORE MASTIFFS IN NEED.  THANK YOU!Note: the dog pictured is a previously adopted dog - please go to&nbsp;&nbsp; http://www.greatplainsmastiffrescue.org/animals/list?Status=Availablefor the current list of dogs, and there are always dogs waiting to come into the rescue when we have a foster home available - please consider fostering tday!",
+      "animalFoundDate": "",
+      "animalLocation": "73083",
+      "animalLocationCitystate": "Edmond, OK",
+      "animalName": "FOSTERS NEEDED",
+      "animalPictures": [
+        {
+          "mediaID": "7984632",
+          "mediaOrder": "1",
+          "lastUpdated": "3/2/2011 12:50 PM",
+          "fileSize": "16321",
+          "resolutionX": "500",
+          "resolutionY": "333",
+          "fileNameFullsize": "7984632_500x333.jpg",
+          "fileNameThumbnail": "7984632_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_500x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_500x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "16321",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_500x333.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "16321",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_500x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2119",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/7984632_100x66.jpg"
+          }
+        },
+        {
+          "mediaID": "304096",
+          "mediaOrder": "2",
+          "lastUpdated": "3/2/2011 12:50 PM",
+          "fileSize": "17784",
+          "resolutionX": "500",
+          "resolutionY": "333",
+          "fileNameFullsize": "304096_500x333.jpg",
+          "fileNameThumbnail": "304096_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_500x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_500x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "17784",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_500x333.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "17784",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_500x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2398",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/733/pictures/animals/121/121598/304096_100x66.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Mastiff",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "121598"
+    },
+    "140130": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "13 Years 9 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Calico (short coat)",
+      "animalDescription": "<div class=\"rgDescription\">**Please Note: We are only able to adopt within 30-40 miles of the Baltimore, MD area.**<br /><br />Erin is very much a lap cat. As soon as you sit down, she wants to lay on top of you. She is very affectionate, but can sometimes get overstimulated by too much petting. It's best to let her rub her face against your hand as opposed to stroking her and petting her repeatedly. As a senior cat, she is very content to nap during the day. She still enjoys short bouts of play with a feather toy.<br /><br />**For information about our adoption policies and procedures, please go to http://www.petrescueofmd.org/info/adoption.<img src=\"https://tracker.rescuegroups.org/pet?140130&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "**Please Note: We are only able to adopt within 30-40 miles of the Baltimore, MD area.**Erin is very much a lap cat. As soon as you sit down, she wants to lay on top of you. She is very affectionate, but can sometimes get overstimulated by too much petting. It's best to let her rub her face against your hand as opposed to stroking her and petting her repeatedly. As a senior cat, she is very content to nap during the day. She still enjoys short bouts of play with a feather toy.**For information about our adoption policies and procedures, please go to http://www.petrescueofmd.org/info/adoption.",
+      "animalFoundDate": "",
+      "animalLocation": "21111",
+      "animalLocationCitystate": "Monkton, MD",
+      "animalName": "Erin",
+      "animalPictures": [
+        {
+          "mediaID": "1640111",
+          "mediaOrder": "1",
+          "lastUpdated": "6/21/2016 9:51 AM",
+          "fileSize": "240105",
+          "resolutionX": "350",
+          "resolutionY": "409",
+          "fileNameFullsize": "1640111_350x409.jpg",
+          "fileNameThumbnail": "1640111_100x116.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_350x409.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_100x116.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_350x409.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_100x116.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "240105",
+            "resolutionX": "350",
+            "resolutionY": "409",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_350x409.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "240105",
+            "resolutionX": "350",
+            "resolutionY": "409",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_350x409.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4634",
+            "resolutionX": "100",
+            "resolutionY": "116",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640111_100x116.jpg"
+          }
+        },
+        {
+          "mediaID": "636240",
+          "mediaOrder": "2",
+          "lastUpdated": "6/21/2016 9:51 AM",
+          "fileSize": "189460",
+          "resolutionX": "350",
+          "resolutionY": "237",
+          "fileNameFullsize": "636240_350x237.jpg",
+          "fileNameThumbnail": "636240_100x67.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_350x237.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_100x67.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_350x237.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_100x67.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "189460",
+            "resolutionX": "350",
+            "resolutionY": "237",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_350x237.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "189460",
+            "resolutionX": "350",
+            "resolutionY": "237",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_350x237.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3401",
+            "resolutionX": "100",
+            "resolutionY": "67",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/636240_100x67.jpg"
+          }
+        },
+        {
+          "mediaID": "1640112",
+          "mediaOrder": "3",
+          "lastUpdated": "9/18/2008 4:07 PM",
+          "fileSize": "144812",
+          "resolutionX": "350",
+          "resolutionY": "194",
+          "fileNameFullsize": "1640112_350x194.jpg",
+          "fileNameThumbnail": "1640112_100x55.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_350x194.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_100x55.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_350x194.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_100x55.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "144812",
+            "resolutionX": "350",
+            "resolutionY": "194",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_350x194.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "144812",
+            "resolutionX": "350",
+            "resolutionY": "194",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_350x194.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2645",
+            "resolutionX": "100",
+            "resolutionY": "55",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/140/140130/1640112_100x55.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Calico",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "140130"
+    },
+    "213107": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Dachshund (short coat)",
+      "animalDescription": "<div class=\"rgHeader\"><div dir=\"ltr\" style=\"text-align: center;\">\r\n<span style=\"color: rgb(34, 34, 34); font-family: arial; font-size: 20px;\">\r\n<span style=\"background-color:#FF0000;\">PLEASE SCROLL ALL THE WAY DOWN FOR ANIMAL&nbsp;</span>\r\n</span>\r\n<font color=\"#222222\" face=\"arial\"> \r\n<span style=\"background-color:#FFFF00;\"> </span>\r\n\r\n<span style=\"font-size: 20px;\"> \r\n<span style=\"background-color:#FFFF00;\">INFORMATION BEFORE </span>\r\n\r\n<span style=\"background-color:#FFFF00;\">E MAILING</span>\r\n&nbsp;</span>\r\n</font></div>\r\n\r\n<div dir=\"ltr\" style=\"text-align: center;\">&nbsp;</div>\r\n\r\n<div dir=\"ltr\" style=\"text-align: center;\"><font color=\"#222222\" face=\"arial\">\r\n<span style=\"font-size: 20px;\">FILL OUT APPLICATION at</span>\r\n</font>https://form.jotform.com/193595080362159&nbsp;<font color=\"#222222\" face=\"arial\">&nbsp;\r\n<span style=\"font-size: 20px;\">DO NOT E MAIL ME FIRST READ FIRST- FILL OUT APP 2nd.</span>\r\n</font></div>\r\n\r\n<div dir=\"ltr\" style=\"text-align: center;\">&nbsp;</div>\r\n\r\n<div dir=\"ltr\" style=\"color: rgb(34, 34, 34); font-family: arial; font-size: small; text-align: center;\">&nbsp;</div>\r\n\r\n<div dir=\"ltr\" style=\"color: rgb(34, 34, 34); font-family: arial; font-size: small; text-align: center;\">FOR MORE INFORMATION OR OUR APPLICATION PLEASE GO TO WWW.OKSAVEADOG.ORG</div>\r\n\r\n<div style=\"color: rgb(34, 34, 34); font-family: arial; font-size: small;\">Please FILL OUT THE APPLICATION no more than \r\n<span style=\"color: rgb(255, 0, 0);\">1 day</span>\r\nBEFORE YOU CAN VISIT THE DOGS.&nbsp;https://form.jotform.com/193595080362159&nbsp;</div>\r\n\r\n<p>\r\n<span style=\"font-family: Arial, Helvetica; font-size: small;\">All &nbsp;pets are spayed/neutered, come with current rabies certification and tags, are up to date with other vaccinations, microchipped&nbsp;have tested negative for HW&nbsp;and are wormed every 4&nbsp;weeks while here.&nbsp;</span>\r\n</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n<br></div><div class=\"rgDescription\"><p style=\"text-align: center;\"><strong>&nbsp;Sanctuary Animal<br>\r\nThis Dog Is A Senior and Has Resided&nbsp;<br>\r\nHere the Majority Of her Life Since 2005 and has been deemed&nbsp;</strong><strong>unadoptable.</strong></p>\r\n\r\n<p style=\"text-align: center;\"><strong>&nbsp;Since we are a&nbsp;</strong><strong>no kill</strong><strong>&nbsp;we are dedicated to caring for these dogs as long as necessary.<br>\r\n<br>\r\nNOT AVAILABLE FOR ADOPTION<br>\r\n<br>\r\nYou may Sponsor this dog with a monthly donation<br>\r\nin their</strong><strong>name</strong><strong>&nbsp;if you so desire.<br>\r\n<br>\r\nWe Thank You for Helping Us Help Them.</strong></p><img src=\"https://tracker.rescuegroups.org/pet?213107&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br><p>\r\n<span style=\"background-color: #ff0000;\">\r\n<span style=\"color: #ff0000;\">\r\n<span style=\"background-color: #ffff99;\">\r\n<span style=\"color: #ff0000;\">FIND APPLICATION AT&nbsp; WWW.OKSAVEADOG.ORG</span>\r\n</span>\r\n</span>\r\n</span>\r\nhttps://form.jotform.com/193595080362159 \r\n<span style=\"background-color: #ff0000;\"> \r\n<span style=\"color: #ff0000;\"> </span>\r\n</span>\r\n<br>\r\n<span style=\"color: #ff0000;\">PLEASE! DO NOT APPLY UNTIL THE DAY BEFORE YOU CAN PICK THE DOG UP!!! or it will likely be adopted before you get here</span>\r\n</p>\r\n\r\n<p>IF YOU ARE SEEING IT, IT IS \r\n<span style=\"color: rgb(0, 128, 0);\">AVAILABLE</span>\r\n!. \r\n<span style=\"color: rgb(255, 0, 0);\"> My site is updated daily.&nbsp;</span>\r\n</p>\r\n\r\n<p>\r\n<span style=\"color: #ff0000;\">\r\n<span style=\"color: #333300;\">All dogs carry an adoption fee which helps to pay for deworming, flea control, spay/neuter, HW test<br>\r\nvaccinations and to fix any ailments they may have. The fee is usually less than the vet work they have had.</span>\r\n</span>\r\n</p>\r\n\r\n<p>Thank You for considering adoption. To be considered for one of my dogs please go to&nbsp; \r\n<span style=\"color: #0000ff;\">oksaveadog.org</span>\r\nand complete the application. Once approved and an appointment set, I will send directions<br>\r\nSORRY I DO NOT SHIP DOGS<br>\r\nFOR THE SAFETY AND COMFORT OF MY DOGS I DO REQUIRE ALL DOGS IN THE HOME BE<br>\r\n<span style=\"color: #ff0000;\">SPAYED AND NEUTERED!</span>\r\n</p>\r\n\r\n<p><script src=\"https://www.goodsearch.com/badge.js\" type=\"text/javascript\"></script></p>\r\n\r\n<p><br>\r\n<br>\r\n<br>\r\n<a href=\"http://www.goodsearch.com/\" target=\"_top\"><img alt=\"GoodSearch: You Search...We Give!\" border=\"0\" class=\"mtzqiaabpfmpqsosotit gqgwtldxazaafuugczow\" height=\"60\" src=\"https://www.goodsearch.com/_gfx/gs-cause-120x60.gif\" style=\"display: none !important;\" width=\"120\"></a><br>\r\n<br>\r\n&nbsp;</p>\r\n</div>",
+      "animalDescriptionPlain": "&nbsp;Sanctuary Animal\r\nThis Dog Is A Senior and Has Resided&nbsp;\r\nHere the Majority Of her Life Since 2005 and has been deemed&nbsp;unadoptable.\r\n\r\n&nbsp;Since we are a&nbsp;no kill&nbsp;we are dedicated to caring for these dogs as long as necessary.\r\n\r\nNOT AVAILABLE FOR ADOPTION\r\n\r\nYou may Sponsor this dog with a monthly donation\r\nin theirname&nbsp;if you so desire.\r\n\r\nWe Thank You for Helping Us Help Them.",
+      "animalFoundDate": "",
+      "animalLocation": "74864",
+      "animalLocationCitystate": "Prague, OK",
+      "animalName": "Dexter Sanctuary Dog since 2005",
+      "animalPictures": [
+        {
+          "mediaID": "338383",
+          "mediaOrder": "1",
+          "lastUpdated": "8/9/2007 5:50 PM",
+          "fileSize": "218350",
+          "resolutionX": "232",
+          "resolutionY": "398",
+          "fileNameFullsize": "338383_232x398.jpg",
+          "fileNameThumbnail": "338383_100x171.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_232x398.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_100x171.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_232x398.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_100x171.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "218350",
+            "resolutionX": "232",
+            "resolutionY": "398",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_232x398.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "218350",
+            "resolutionX": "232",
+            "resolutionY": "398",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_232x398.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "6312",
+            "resolutionX": "100",
+            "resolutionY": "171",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338383_100x171.jpg"
+          }
+        },
+        {
+          "mediaID": "338384",
+          "mediaOrder": "2",
+          "lastUpdated": "8/9/2007 5:50 PM",
+          "fileSize": "16451",
+          "resolutionX": "232",
+          "resolutionY": "336",
+          "fileNameFullsize": "338384_232x336.jpg",
+          "fileNameThumbnail": "338384_100x144.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_232x336.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_100x144.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_232x336.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_100x144.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "16451",
+            "resolutionX": "232",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_232x336.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "16451",
+            "resolutionX": "232",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_232x336.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4841",
+            "resolutionX": "100",
+            "resolutionY": "144",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338384_100x144.jpg"
+          }
+        },
+        {
+          "mediaID": "338385",
+          "mediaOrder": "3",
+          "lastUpdated": "8/9/2007 5:50 PM",
+          "fileSize": "12333",
+          "resolutionX": "232",
+          "resolutionY": "214",
+          "fileNameFullsize": "338385_232x214.jpg",
+          "fileNameThumbnail": "338385_100x92.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_232x214.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_100x92.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_232x214.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_100x92.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "12333",
+            "resolutionX": "232",
+            "resolutionY": "214",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_232x214.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "12333",
+            "resolutionX": "232",
+            "resolutionY": "214",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_232x214.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3834",
+            "resolutionX": "100",
+            "resolutionY": "92",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/268/pictures/animals/213/213107/338385_100x92.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Dachshund",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "213107"
+    },
+    "342703": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "13 Years 1 Month ",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Short Hair",
+      "animalDescription": "<div class=\"rgDescription\">**Please Note: We are only able to adopt within 30-40 miles of the Baltimore, MD area.**<br /><br />Magic is a sweet and affectionate senior kitty. She was rescued from a drainage system under a parking lot and came into the rescue as a semi-feral cat. She's made great strides in her foster home and now loves to lay on you and purr. Since she was not socialized as a kitten, she doesn't like to be picked up. <br /><br />**For more information on our adoption policies, please go to www.petrescueofmd.org and click on our Adoption Information and FAQ links.<img src=\"https://tracker.rescuegroups.org/pet?342703&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "**Please Note: We are only able to adopt within 30-40 miles of the Baltimore, MD area.**Magic is a sweet and affectionate senior kitty. She was rescued from a drainage system under a parking lot and came into the rescue as a semi-feral cat. She's made great strides in her foster home and now loves to lay on you and purr. Since she was not socialized as a kitten, she doesn't like to be picked up. **For more information on our adoption policies, please go to www.petrescueofmd.org and click on our Adoption Information and FAQ links.",
+      "animalFoundDate": "",
+      "animalLocation": "21111",
+      "animalLocationCitystate": "Monkton, MD",
+      "animalName": "Magic",
+      "animalPictures": [
+        {
+          "mediaID": "57992364",
+          "mediaOrder": "1",
+          "lastUpdated": "6/19/2018 8:24 AM",
+          "fileSize": "115363",
+          "resolutionX": "500",
+          "resolutionY": "666",
+          "fileNameFullsize": "57992364_500x666.jpg",
+          "fileNameThumbnail": "57992364_100x133.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_500x666.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_100x133.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_500x666.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_100x133.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "115363",
+            "resolutionX": "500",
+            "resolutionY": "666",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_500x666.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "115363",
+            "resolutionX": "500",
+            "resolutionY": "666",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_500x666.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3180",
+            "resolutionX": "100",
+            "resolutionY": "133",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/57992364_100x133.jpg"
+          }
+        },
+        {
+          "mediaID": "2433508",
+          "mediaOrder": "2",
+          "lastUpdated": "6/19/2018 8:24 AM",
+          "fileSize": "218492",
+          "resolutionX": "350",
+          "resolutionY": "415",
+          "fileNameFullsize": "2433508_350x415.jpg",
+          "fileNameThumbnail": "2433508_100x118.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_350x415.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_100x118.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_350x415.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_100x118.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "218492",
+            "resolutionX": "350",
+            "resolutionY": "415",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_350x415.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "218492",
+            "resolutionX": "350",
+            "resolutionY": "415",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_350x415.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4093",
+            "resolutionX": "100",
+            "resolutionY": "118",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433508_100x118.jpg"
+          }
+        },
+        {
+          "mediaID": "2433509",
+          "mediaOrder": "3",
+          "lastUpdated": "6/19/2018 8:24 AM",
+          "fileSize": "246138",
+          "resolutionX": "350",
+          "resolutionY": "446",
+          "fileNameFullsize": "2433509_350x446.jpg",
+          "fileNameThumbnail": "2433509_100x127.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_350x446.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_100x127.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_350x446.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_100x127.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "246138",
+            "resolutionX": "350",
+            "resolutionY": "446",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_350x446.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "246138",
+            "resolutionX": "350",
+            "resolutionY": "446",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_350x446.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4780",
+            "resolutionX": "100",
+            "resolutionY": "127",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/342/342703/2433509_100x127.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "342703"
+    },
+    "382782": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Short Hair / Mixed",
+      "animalDescription": "<div class=\"rgDescription\"><p><span style=\"font-size: 14px;\"> <span style=\"font-family: arial,helvetica,sans-serif;\"><strong>Please note: The cats pictured in this ad are no longer available for adoption; this is a general ad for fostering.</strong></span> </span></p>\r\n<p><span style=\"font-size: 14px;\"> <span style=\"font-family: arial,helvetica,sans-serif;\">If you cannot own your own cat for fear of long-term commitment or if you want to help care for a cat (or kitten) while it waits to find a forever home then fostering may be for you! If you are over 18 years of age, own your own home or have proof of approval from a land lord, and have prior cat experience, please inquire. Yolo County SPCA provides all the expenses, you provide the love. I <span style=\"color: #1d2129; background-color: #ffffff;\">f you are interested, please fill out our foster application at&nbsp;</span> <a style=\"color: #365899; cursor: pointer; text-decoration-line: none; font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;\" href=\"https://form.jotform.com/81076325684158\" rel=\"noopener nofollow\" target=\"_blank\" data-ft=\"{\" data-lynx-mode=\"async\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fform.jotform.com%2F81076325684158&amp;h=ATPG2dR3u56eGDFGUmqlUXV-P3tWslQ4mJfMuk1GUWDvZek0EzUQrpaQ4FYe_kWeGQOkO5wNo1Iaa_qQLcvWLfkQagrqLMrOQkEfWxEbazzPVfvIKEzAUWjstdaBq6TmG1SRKg773FLvAoGtLspdNP8AGZj2VJ_gU4qm\">https://form.jotform.com/81076325684158</a> or visit our website, yolospca.org, for more information. Thank you for helping make a difference in the lives of animals!</span> </span></p>\r\n<p><br /> &nbsp;</p><img src=\"https://tracker.rescuegroups.org/pet?382782&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br><p>Apply to adopt here!<span>&nbsp;<a href=\"https://form.jotform.com/52328506444151/\"><span>Online cat application form</span></a></span></p>\r\n<p>Please expect up to 3-5 business days to hear back once you have submitted an application.</p>\r\n<p>The Yolo County SPCA is a nonprofit foster home based organization located in Yolo County California.</p>\r\n<div>\r\n<p class=\"p2\">All of our felines have been spayed/neutered, microchipped, FeLV tested, and vaccinated prior to adoption. Kittens have received at least one FVRCP and adults are up-to-date on vaccines. The fee to adopt is $90 for kittens ($135 for a pair)&nbsp;or $60 for adult cats over 1 year ($90 for a pair).</p>\r\n<p class=\"p2\">For more information about an animal, please email yolospcafoster@gmail.com. For more general questions, please see our website at www.yolospca.org.</p>\r\n</div></div>",
+      "animalDescriptionPlain": " Please note: The cats pictured in this ad are no longer available for adoption; this is a general ad for fostering. \r\n If you cannot own your own cat for fear of long-term commitment or if you want to help care for a cat (or kitten) while it waits to find a forever home then fostering may be for you! If you are over 18 years of age, own your own home or have proof of approval from a land lord, and have prior cat experience, please inquire. Yolo County SPCA provides all the expenses, you provide the love. I f you are interested, please fill out our foster application at&nbsp; https://form.jotform.com/81076325684158 or visit our website, yolospca.org, for more information. Thank you for helping make a difference in the lives of animals! \r\n &nbsp;",
+      "animalFoundDate": "",
+      "animalLocation": "95617",
+      "animalLocationCitystate": "Davis, CA",
+      "animalName": "Fostering",
+      "animalPictures": [
+        {
+          "mediaID": "7127916",
+          "mediaOrder": "1",
+          "lastUpdated": "1/15/2015 2:48 PM",
+          "fileSize": "17263",
+          "resolutionX": "350",
+          "resolutionY": "336",
+          "fileNameFullsize": "7127916_350x336.jpg",
+          "fileNameThumbnail": "7127916_100x96.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_350x336.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_100x96.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_350x336.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_100x96.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "17263",
+            "resolutionX": "350",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_350x336.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "17263",
+            "resolutionX": "350",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_350x336.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4039",
+            "resolutionX": "100",
+            "resolutionY": "96",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127916_100x96.jpg"
+          }
+        },
+        {
+          "mediaID": "7127917",
+          "mediaOrder": "2",
+          "lastUpdated": "1/15/2015 2:48 PM",
+          "fileSize": "25711",
+          "resolutionX": "500",
+          "resolutionY": "336",
+          "fileNameFullsize": "7127917_500x336.jpg",
+          "fileNameThumbnail": "7127917_100x67.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_500x336.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_100x67.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_500x336.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_100x67.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "25711",
+            "resolutionX": "500",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_500x336.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "25711",
+            "resolutionX": "500",
+            "resolutionY": "336",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_500x336.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2821",
+            "resolutionX": "100",
+            "resolutionY": "67",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127917_100x67.jpg"
+          }
+        },
+        {
+          "mediaID": "7127918",
+          "mediaOrder": "3",
+          "lastUpdated": "1/15/2015 2:48 PM",
+          "fileSize": "30386",
+          "resolutionX": "500",
+          "resolutionY": "463",
+          "fileNameFullsize": "7127918_500x463.jpg",
+          "fileNameThumbnail": "7127918_100x92.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_500x463.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_100x92.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_500x463.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_100x92.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "30386",
+            "resolutionX": "500",
+            "resolutionY": "463",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_500x463.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "30386",
+            "resolutionX": "500",
+            "resolutionY": "463",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_500x463.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3053",
+            "resolutionX": "100",
+            "resolutionY": "92",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1742/pictures/animals/382/382782/7127918_100x92.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [
+        {
+          "mediaID": "10754476",
+          "mediaOrder": "1",
+          "videoUrl": "https://www.youtube.com/v/79NFc_8Kl18",
+          "videoID": "79NFc_8Kl18",
+          "urlThumbnail": "https://img.youtube.com/vi/79NFc_8Kl18/default.jpg"
+        }
+      ],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "382782"
+    },
+    "395190": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Domestic Short Hair (short coat)",
+      "animalDescription": "<div class=\"rgFoster\"><strong>Please contact Paula (<a href=mailto:pjstoppler@msn.com>pjstoppler@msn.com</a>) for more information about this pet.</strong><br></div><div class=\"rgDescription\">Position Wanted:  Experienced mousers looking for permanent position on farm or country property. These are 2-cat crews, ready to attack the pesky mice hiding in your barn or shed.   These felines have been spayed/neutered and vaccinated, and are ready to relocate today.  <img src=\"https://tracker.rescuegroups.org/pet?395190&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div><div class=\"rgFooter\"><br><p>If you would like to complete our Adoption Application, please do so! Be sure to put the animal's name and ID number at the top of the application and save the document to your computer. Return the saved document to us at rpaws@hotmail.com or to the foster home (email is listed at the beginning of this biography) with the name of the animal in the subject line. <a href=\"http://members.petfinder.org/~WA330/Application.doc\">Click here to download our Adoption Application.</a></p>\r\n<p>Please click on the PayPal button below to make a donation for the care of the animals. All donations are gratefully accepted and used for the animals; we have no paid staff.</p>\r\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\" /> <input name=\"hosted_button_id\" type=\"hidden\" value=\"1691381\" /> <input name=\"submit\" src=\"https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif\" type=\"image\" /> <img src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" border=\"0\" alt=\"\" width=\"1\" height=\"1\" /> <input name=\"encrypted\" type=\"hidden\" value=\"-----BEGIN PKCS7-----MIIHPwYJKoZIhvcNAQcEoIIHMDCCBywCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYBvgtq2P4/VWCfPppCWfVy782XmZDeDWTBErbOVwAJHDw4FTx9as7gaUah9DM22MzpgjPXvlhD+9YkV91WLTgCaRU2Nn63vr3wJ68c9sim9CQLwmQb2mQREYjoKNx2KzW6QNFuCH7lYoOTTtoDW5NANzniQJJqeEQFOE9U1Cigo0DELMAkGBSsOAwIaBQAwgbwGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQICjJ999dZyRiAgZj7D9BoMngQdH0b6wiRjOiRnm1iQgZXw2razvfBXOSR7bL5LFs4434400kEZ7wpBEoovTEs9A7/nBZlxCbx+igiKexuvPcs8AM4+EDYuxBe2mf0TcaNUfSeG2HCURl3Lz+h6TxdpbX5P54/sCA47nlUXWtkktW+pBJCIyBurBlIJHNlzGEzThl5w8RX+su1WsQ6dOS5M6/75KCCA4cwggODMIIC7KADAgECAgEAMA0GCSqGSIb3DQEBBQUAMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTAeFw0wNDAyMTMxMDEzMTVaFw0zNTAyMTMxMDEzMTVaMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwUdO3fxEzEtcnI7ZKZL412XvZPugoni7i7D7prCe0AtaHTc97CYgm7NsAtJyxNLixmhLV8pyIEaiHXWAh8fPKW+R017+EmXrr9EaquPmsVvTywAAE1PMNOKqo2kl4Gxiz9zZqIajOm1fZGWcGS0f5JQ2kBqNbvbg2/Za+GJ/qwUCAwEAAaOB7jCB6zAdBgNVHQ4EFgQUlp98u8ZvF71ZP1LXChvsENZklGswgbsGA1UdIwSBszCBsIAUlp98u8ZvF71ZP1LXChvsENZklGuhgZSkgZEwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tggEAMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAgV86VpqAWuXvX6Oro4qJ1tYVIT5DgWpE692Ag422H7yRIr/9j/iKG4Thia/Oflx4TdL+IFJBAyPK9v6zZNZtBgPBynXb048hsP16l2vi0k5Q2JKiPDsEfBhGI+HnxLXEaUWAcVfCsQFvd2A1sxRr67ip5y2wwBelUecP3AjJ+YcxggGaMIIBlgIBATCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTA3MDEwMjAzMzAyMVowIwYJKoZIhvcNAQkEMRYEFObbYyyQbx1fbi6twnDBp5BpfexjMA0GCSqGSIb3DQEBAQUABIGAY6NVkaopNTWyLBnUtyFVMx4Ooj7N2U2QCzJFDnp6JVr2RateDSobcrR8Gk5koVafxbEwYtQujhJRCYF3c/VvxItrlJmUi0AROc+V2A9THftXXPI2waXuSX7uq6BnYQRtzdGIF74LMM/65QDBzMXU2ENBhqSLKnWc6fF7PRf3WtU=-----END PKCS7-----\" /> </form>\r\n<p>&nbsp;</p></div>",
+      "animalDescriptionPlain": "Position Wanted:  Experienced mousers looking for permanent position on farm or country property. These are 2-cat crews, ready to attack the pesky mice hiding in your barn or shed.   These felines have been spayed/neutered and vaccinated, and are ready to relocate today.  ",
+      "animalFoundDate": "",
+      "animalLocation": "98632",
+      "animalLocationCitystate": "Longview, WA",
+      "animalName": "Mouse Patrol",
+      "animalPictures": [
+        {
+          "mediaID": "897392",
+          "mediaOrder": "1",
+          "lastUpdated": "1/17/2008 2:58 AM",
+          "fileSize": "23130",
+          "resolutionX": "350",
+          "resolutionY": "273",
+          "fileNameFullsize": "897392_350x273.jpg",
+          "fileNameThumbnail": "897392_100x78.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_350x273.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_100x78.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_350x273.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_100x78.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "23130",
+            "resolutionX": "350",
+            "resolutionY": "273",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_350x273.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "23130",
+            "resolutionX": "350",
+            "resolutionY": "273",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_350x273.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3398",
+            "resolutionX": "100",
+            "resolutionY": "78",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897392_100x78.jpg"
+          }
+        },
+        {
+          "mediaID": "897393",
+          "mediaOrder": "2",
+          "lastUpdated": "1/17/2008 2:58 AM",
+          "fileSize": "16246",
+          "resolutionX": "350",
+          "resolutionY": "262",
+          "fileNameFullsize": "897393_350x262.jpg",
+          "fileNameThumbnail": "897393_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_350x262.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_350x262.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "16246",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_350x262.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "16246",
+            "resolutionX": "350",
+            "resolutionY": "262",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_350x262.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2579",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897393_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "897394",
+          "mediaOrder": "3",
+          "lastUpdated": "1/17/2008 2:58 AM",
+          "fileSize": "19246",
+          "resolutionX": "350",
+          "resolutionY": "345",
+          "fileNameFullsize": "897394_350x345.jpg",
+          "fileNameThumbnail": "897394_100x98.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_350x345.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_100x98.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_350x345.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_100x98.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "19246",
+            "resolutionX": "350",
+            "resolutionY": "345",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_350x345.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19246",
+            "resolutionX": "350",
+            "resolutionY": "345",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_350x345.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3334",
+            "resolutionX": "100",
+            "resolutionY": "98",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1233/pictures/animals/395/395190/897394_100x98.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Domestic Short Hair",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "98632",
+      "animalID": "395190"
+    },
+    "443284": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "12 Years 7 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Calico",
+      "animalDescription": "<div class=\"rgDescription\">Brianna lost her home when a family member became severely allergic. She is such a sweet and affectionate cat and would make a lovely companion. She has lived with other cats and older children.<br /><br />**Please Note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies, please go to www.petrescueofmd.org and click on our Adoption Info and FAQ links.<img src=\"https://tracker.rescuegroups.org/pet?443284&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Brianna lost her home when a family member became severely allergic. She is such a sweet and affectionate cat and would make a lovely companion. She has lived with other cats and older children.**Please Note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies, please go to www.petrescueofmd.org and click on our Adoption Info and FAQ links.",
+      "animalFoundDate": "",
+      "animalLocation": "21111",
+      "animalLocationCitystate": "Monkton, MD",
+      "animalName": "Briana",
+      "animalPictures": [
+        {
+          "mediaID": "59091369",
+          "mediaOrder": "1",
+          "lastUpdated": "7/27/2018 8:28 AM",
+          "fileSize": "109683",
+          "resolutionX": "500",
+          "resolutionY": "599",
+          "fileNameFullsize": "59091369_500x599.jpg",
+          "fileNameThumbnail": "59091369_100x119.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_500x599.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_100x119.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_500x599.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_100x119.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "109683",
+            "resolutionX": "500",
+            "resolutionY": "599",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_500x599.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "109683",
+            "resolutionX": "500",
+            "resolutionY": "599",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_500x599.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3159",
+            "resolutionX": "100",
+            "resolutionY": "119",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091369_100x119.jpg"
+          }
+        },
+        {
+          "mediaID": "59091370",
+          "mediaOrder": "2",
+          "lastUpdated": "7/27/2018 8:28 AM",
+          "fileSize": "19080",
+          "resolutionX": "500",
+          "resolutionY": "333",
+          "fileNameFullsize": "59091370_500x333.jpg",
+          "fileNameThumbnail": "59091370_100x66.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_500x333.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_100x66.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_500x333.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_100x66.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "5866885",
+            "resolutionX": "5184",
+            "resolutionY": "3456",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_5184x3456.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19080",
+            "resolutionX": "500",
+            "resolutionY": "333",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_500x333.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "1982",
+            "resolutionX": "100",
+            "resolutionY": "66",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443284/59091370_100x66.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Calico",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "443284"
+    },
+    "443285": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "12 Years 7 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Calico",
+      "animalDescription": "<div class=\"rgDescription\">Fiona is looking for a new home because a family member became allergic to cats. She is a shy, but sweet and affectionate cat who has lived with other cats. She would do best in a calm and quiet home.<br /><br />**Please note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies and procedures, please go to http://www.petrescueofmd.org/info/adoption<img src=\"https://tracker.rescuegroups.org/pet?443285&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Fiona is looking for a new home because a family member became allergic to cats. She is a shy, but sweet and affectionate cat who has lived with other cats. She would do best in a calm and quiet home.**Please note: We are only able to adopt within 30-40 miles of Baltimore, MD. For more information on our adoption policies and procedures, please go to http://www.petrescueofmd.org/info/adoption",
+      "animalFoundDate": "",
+      "animalLocation": "21111",
+      "animalLocationCitystate": "Monkton, MD",
+      "animalName": "Fiona",
+      "animalPictures": [
+        {
+          "mediaID": "58972329",
+          "mediaOrder": "1",
+          "lastUpdated": "7/23/2018 2:07 PM",
+          "fileSize": "58665",
+          "resolutionX": "500",
+          "resolutionY": "523",
+          "fileNameFullsize": "58972329_500x523.jpg",
+          "fileNameThumbnail": "58972329_100x104.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_500x523.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_100x104.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_500x523.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_100x104.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "58665",
+            "resolutionX": "500",
+            "resolutionY": "523",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_500x523.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "58665",
+            "resolutionX": "500",
+            "resolutionY": "523",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_500x523.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2836",
+            "resolutionX": "100",
+            "resolutionY": "104",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972329_100x104.jpg"
+          }
+        },
+        {
+          "mediaID": "58972327",
+          "mediaOrder": "2",
+          "lastUpdated": "7/23/2018 2:07 PM",
+          "fileSize": "55545",
+          "resolutionX": "500",
+          "resolutionY": "340",
+          "fileNameFullsize": "58972327_500x340.jpg",
+          "fileNameThumbnail": "58972327_100x68.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_500x340.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_100x68.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_500x340.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_100x68.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "55545",
+            "resolutionX": "500",
+            "resolutionY": "340",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_500x340.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "55545",
+            "resolutionX": "500",
+            "resolutionY": "340",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_500x340.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2605",
+            "resolutionX": "100",
+            "resolutionY": "68",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972327_100x68.jpg"
+          }
+        },
+        {
+          "mediaID": "58972325",
+          "mediaOrder": "3",
+          "lastUpdated": "7/23/2018 2:07 PM",
+          "fileSize": "78299",
+          "resolutionX": "500",
+          "resolutionY": "786",
+          "fileNameFullsize": "58972325_500x786.jpg",
+          "fileNameThumbnail": "58972325_100x157.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_500x786.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_100x157.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_500x786.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_100x157.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "78299",
+            "resolutionX": "500",
+            "resolutionY": "786",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_500x786.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "78299",
+            "resolutionX": "500",
+            "resolutionY": "786",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_500x786.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3593",
+            "resolutionX": "100",
+            "resolutionY": "157",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/136/pictures/animals/443/443285/58972325_100x157.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Calico",
+      "animalSpecies": "Cat",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "443285"
+    },
+    "483103": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Hound / Mixed (short coat)",
+      "animalDescription": "<div class=\"rgFoster\"><strong>Please contact Tonya Griffith (<a href=mailto:TMSGriffith@aol.com>TMSGriffith@aol.com</a>) for more information about this pet.</strong><br></div><div class=\"rgDescription\"><p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">Clifford was transferred from the shelter 7/30/07, and appears to be 2 months old when transferred. &nbsp;He is extremely sweet and will make a great family pet.&nbsp; He loves to give kisses constantly, and gets so excited to be with people that his whole body moves with him wagging his tail.&nbsp; </span></span><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">Clifford was being crated when he first arrived, but we moved him to a dog pen later, so house training should not take much more work.</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"></span><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">D.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? May 2007<br />Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.7 - 8/16/07; about 50-60 pounds now</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"></span><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">$60 adoption fee will pay for his neuter and vaccinations.</span></span></p><img src=\"https://tracker.rescuegroups.org/pet?483103&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Clifford was transferred from the shelter 7/30/07, and appears to be 2 months old when transferred. &nbsp;He is extremely sweet and will make a great family pet.&nbsp; He loves to give kisses constantly, and gets so excited to be with people that his whole body moves with him wagging his tail.&nbsp; Clifford was being crated when he first arrived, but we moved him to a dog pen later, so house training should not take much more work.\r\nD.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? May 2007Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.7 - 8/16/07; about 50-60 pounds now\r\n$60 adoption fee will pay for his neuter and vaccinations.",
+      "animalFoundDate": "",
+      "animalLocation": "75704",
+      "animalLocationCitystate": "Tyler, TX",
+      "animalName": "TG-Clifford",
+      "animalPictures": [
+        {
+          "mediaID": "1118778",
+          "mediaOrder": "1",
+          "lastUpdated": "4/3/2008 10:31 PM",
+          "fileSize": "16727",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1118778_320x240.jpg",
+          "fileNameThumbnail": "1118778_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "16727",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "16727",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3239",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118778_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1118779",
+          "mediaOrder": "2",
+          "lastUpdated": "4/3/2008 10:31 PM",
+          "fileSize": "19198",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1118779_320x240.jpg",
+          "fileNameThumbnail": "1118779_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "19198",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19198",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3542",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118779_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1118780",
+          "mediaOrder": "3",
+          "lastUpdated": "4/3/2008 10:31 PM",
+          "fileSize": "17975",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1118780_320x240.jpg",
+          "fileNameThumbnail": "1118780_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "17975",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "17975",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3411",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483103/1118780_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Hound",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "483103"
+    },
+    "483123": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Boxer / American Staffordshire Terrier / Mixed (short coat)",
+      "animalDescription": "<div class=\"rgFoster\"><strong>Please contact Tonya Griffith (<a href=mailto:TMSGriffith@aol.com>TMSGriffith@aol.com</a>) for more information about this pet.</strong><br></div><div class=\"rgDescription\"><p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">Drake is very playful, loving, and eager to please. &nbsp;He just needs you to take him home and give him all the love and attention he so craves and needs. &nbsp;Drake and his two siblings were transferred from the Mt. Pleasant animal shelter before they would have been euthanized as puppies.&nbsp; He does have an underbite, so we listed him as part Boxer.</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"></span><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">D.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; November, 2005<br />Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40.0 - 5/5/06<br />Siblings:&nbsp;&nbsp;&nbsp; &nbsp;Mindy, Bo</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"></span><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">$60 adoption fee will pay for his neuter and vaccinations.</span></span></p><img src=\"https://tracker.rescuegroups.org/pet?483123&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Drake is very playful, loving, and eager to please. &nbsp;He just needs you to take him home and give him all the love and attention he so craves and needs. &nbsp;Drake and his two siblings were transferred from the Mt. Pleasant animal shelter before they would have been euthanized as puppies.&nbsp; He does have an underbite, so we listed him as part Boxer.\r\nD.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; November, 2005Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40.0 - 5/5/06Siblings:&nbsp;&nbsp;&nbsp; &nbsp;Mindy, Bo\r\n$60 adoption fee will pay for his neuter and vaccinations.",
+      "animalFoundDate": "",
+      "animalLocation": "75704",
+      "animalLocationCitystate": "Tyler, TX",
+      "animalName": "TG-Drake",
+      "animalPictures": [
+        {
+          "mediaID": "1118831",
+          "mediaOrder": "1",
+          "lastUpdated": "4/3/2008 10:32 PM",
+          "fileSize": "41117",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "1118831_500x500.jpg",
+          "fileNameThumbnail": "1118831_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "41117",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_500x500.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "41117",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4014",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118831_100x100.jpg"
+          }
+        },
+        {
+          "mediaID": "1118832",
+          "mediaOrder": "2",
+          "lastUpdated": "4/3/2008 10:32 PM",
+          "fileSize": "54606",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "1118832_500x500.jpg",
+          "fileNameThumbnail": "1118832_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "54606",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_500x500.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "54606",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4605",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118832_100x100.jpg"
+          }
+        },
+        {
+          "mediaID": "1118833",
+          "mediaOrder": "3",
+          "lastUpdated": "4/3/2008 10:32 PM",
+          "fileSize": "40365",
+          "resolutionX": "500",
+          "resolutionY": "500",
+          "fileNameFullsize": "1118833_500x500.jpg",
+          "fileNameThumbnail": "1118833_100x100.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_500x500.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_100x100.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_500x500.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_100x100.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "40365",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_500x500.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "40365",
+            "resolutionX": "500",
+            "resolutionY": "500",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_500x500.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "4202",
+            "resolutionX": "100",
+            "resolutionY": "100",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483123/1118833_100x100.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Boxer",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "483123"
+    },
+    "483254": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Catahoula Leopard Dog / Mixed (short coat)",
+      "animalDescription": "<div class=\"rgFoster\"><strong>Please contact Tonya Griffith (<a href=mailto:TMSGriffith@aol.com>TMSGriffith@aol.com</a>) for more information about this pet.</strong><br></div><div class=\"rgDescription\"><p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">Nathan was a stray found in February 2007.&nbsp; He had several patches of skin missing, which turned out to be demodectic mange, but has all of his hair back and kept it by using Nu Stock, and keeping him on Ivomec for heartworm prevention.&nbsp; He was skittish of people at first, and was starving, but now he is a very sweet dog looking for a loving home.&nbsp; He has put on a lot of weight after he&nbsp;was neutered, which can happen to some pets, but we are not set up to isolate the dogs for special diets, so he could really use a good home of his own.</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">D.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? 2005<br />Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;68.0 - 3/15/07</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">$65 adoption fee will pay for his neuter and vaccinations.</span></span></p><img src=\"https://tracker.rescuegroups.org/pet?483254&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Nathan was a stray found in February 2007.&nbsp; He had several patches of skin missing, which turned out to be demodectic mange, but has all of his hair back and kept it by using Nu Stock, and keeping him on Ivomec for heartworm prevention.&nbsp; He was skittish of people at first, and was starving, but now he is a very sweet dog looking for a loving home.&nbsp; He has put on a lot of weight after he&nbsp;was neutered, which can happen to some pets, but we are not set up to isolate the dogs for special diets, so he could really use a good home of his own.\r\nD.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? 2005Weight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;68.0 - 3/15/07\r\n$65 adoption fee will pay for his neuter and vaccinations.",
+      "animalFoundDate": "",
+      "animalLocation": "75704",
+      "animalLocationCitystate": "Tyler, TX",
+      "animalName": "TG-Nathan",
+      "animalPictures": [
+        {
+          "mediaID": "1119175",
+          "mediaOrder": "1",
+          "lastUpdated": "4/3/2008 10:40 PM",
+          "fileSize": "15395",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119175_320x240.jpg",
+          "fileNameThumbnail": "1119175_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "15395",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "15395",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3227",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119175_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1119176",
+          "mediaOrder": "2",
+          "lastUpdated": "4/3/2008 10:40 PM",
+          "fileSize": "18317",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119176_320x240.jpg",
+          "fileNameThumbnail": "1119176_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "18317",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "18317",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3897",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119176_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1119177",
+          "mediaOrder": "3",
+          "lastUpdated": "4/3/2008 10:40 PM",
+          "fileSize": "22069",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119177_320x240.jpg",
+          "fileNameThumbnail": "1119177_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "22069",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "22069",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3999",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483254/1119177_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Catahoula Leopard Dog",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "483254"
+    },
+    "483289": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "",
+      "animalAvailableDate": "",
+      "animalBreed": "Catahoula Leopard Dog / Mixed (short coat)",
+      "animalDescription": "<div class=\"rgFoster\"><strong>Please contact Tonya Griffith (<a href=mailto:TMSGriffith@aol.com>TMSGriffith@aol.com</a>) for more information about this pet.</strong><br></div><div class=\"rgDescription\"><p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">Reba was dumped on our road around 3/25/07.&nbsp; She was malnourished, when found. &nbsp;She has become a very happy and loving dog that would make a great family pet.&nbsp; She has four white feet and a white neck.</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">D.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? January 2007<br />Weight:&nbsp;&nbsp;&nbsp;&nbsp; 25.0 - 4/19/07; 32.0 - 5/4/07</span></span></p>\r\n<p><span style=\"font-family: times new roman,times;\"><span style=\"font-size: 12pt;\">$65 adoption fee will pay for her spay and vaccinations.</span></span></p><img src=\"https://tracker.rescuegroups.org/pet?483289&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "Reba was dumped on our road around 3/25/07.&nbsp; She was malnourished, when found. &nbsp;She has become a very happy and loving dog that would make a great family pet.&nbsp; She has four white feet and a white neck.\r\nD.O.B.:&nbsp;&nbsp;&nbsp;&nbsp; ? January 2007Weight:&nbsp;&nbsp;&nbsp;&nbsp; 25.0 - 4/19/07; 32.0 - 5/4/07\r\n$65 adoption fee will pay for her spay and vaccinations.",
+      "animalFoundDate": "",
+      "animalLocation": "75704",
+      "animalLocationCitystate": "Tyler, TX",
+      "animalName": "TG-Reba",
+      "animalPictures": [
+        {
+          "mediaID": "1119262",
+          "mediaOrder": "1",
+          "lastUpdated": "4/3/2008 10:42 PM",
+          "fileSize": "19942",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119262_320x240.jpg",
+          "fileNameThumbnail": "1119262_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "19942",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "19942",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3788",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119262_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1119263",
+          "mediaOrder": "2",
+          "lastUpdated": "4/3/2008 10:42 PM",
+          "fileSize": "22287",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119263_320x240.jpg",
+          "fileNameThumbnail": "1119263_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "22287",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "22287",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3851",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119263_100x75.jpg"
+          }
+        },
+        {
+          "mediaID": "1119264",
+          "mediaOrder": "3",
+          "lastUpdated": "4/3/2008 10:42 PM",
+          "fileSize": "21542",
+          "resolutionX": "320",
+          "resolutionY": "240",
+          "fileNameFullsize": "1119264_320x240.jpg",
+          "fileNameThumbnail": "1119264_100x75.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_320x240.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_100x75.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_320x240.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_100x75.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "21542",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_320x240.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "21542",
+            "resolutionX": "320",
+            "resolutionY": "240",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_320x240.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "3837",
+            "resolutionX": "100",
+            "resolutionY": "75",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/2070/pictures/animals/483/483289/1119264_100x75.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Catahoula Leopard Dog",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "483289"
+    },
+    "488826": {
+      "animalAdoptionFee": "",
+      "animalAgeString": "76 Years 11 Months ",
+      "animalAvailableDate": "",
+      "animalBreed": "Labrador Retriever",
+      "animalDescription": "<div class=\"rgDescription\"><p>And here I am!!<br>\r\n<br>\r\n<br>\r\nNeutered male<br>\r\nAge:estimated DOB July 21, 1943<br>\r\nSize (when grown):Large 60 lbs<br>\r\n<br>\r\nKID/CAT/DOG FRIENDLY<br>\r\n<br>\r\nOur $100 dog adoption fee covers sterilization and routine vaccinations. All our foster dogs are taking heartworm medication.<br>\r\n<br>\r\n<a href=\"http://www.pontchartrainhumanesociety.org/pad.html\" target=\"_blank\">Click here for our Pet Adoption Days Schedule.</a><br>\r\n<br>\r\n<br>\r\nOur 24 hour Beeper is <b><a href=\"tel:985-699-9040\">985-699-9040</a></b><br>\r\n<br>\r\nor email us at<br>\r\n<b><a href=\"mailto:saveadog@pontchartrainhumanesociety.org\">saveadog@pontchartrainhumanesociety.org</a></b></p><img src=\"https://tracker.rescuegroups.org/pet?488826&a=&h=\" width=\"0\" height=\"0\" alt=\"\" /></div>",
+      "animalDescriptionPlain": "And here I am!!\r\n\r\n\r\nNeutered male\r\nAge:estimated DOB July 21, 1943\r\nSize (when grown):Large 60 lbs\r\n\r\nKID/CAT/DOG FRIENDLY\r\n\r\nOur $100 dog adoption fee covers sterilization and routine vaccinations. All our foster dogs are taking heartworm medication.\r\n\r\nClick here for our Pet Adoption Days Schedule.\r\n\r\n\r\nOur 24 hour Beeper is 985-699-9040\r\n\r\nor email us at\r\nsaveadog@pontchartrainhumanesociety.org",
+      "animalFoundDate": "",
+      "animalLocation": "70469",
+      "animalLocationCitystate": "Slidell, LA",
+      "animalName": "A Perfect Dog.",
+      "animalPictures": [
+        {
+          "mediaID": "1135194",
+          "mediaOrder": "1",
+          "lastUpdated": "10/10/2013 8:11 AM",
+          "fileSize": "17613",
+          "resolutionX": "360",
+          "resolutionY": "237",
+          "fileNameFullsize": "1135194_360x237.jpg",
+          "fileNameThumbnail": "1135194_100x65.jpg",
+          "urlSecureFullsize": "https://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_360x237.jpg",
+          "urlSecureThumbnail": "https://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_100x65.jpg",
+          "urlInsecureFullsize": "http://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_360x237.jpg",
+          "urlInsecureThumbnail": "http://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_100x65.jpg",
+          "original": {
+            "type": "Original",
+            "fileSize": "17613",
+            "resolutionX": "360",
+            "resolutionY": "237",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_360x237.jpg"
+          },
+          "large": {
+            "type": "Large",
+            "fileSize": "17613",
+            "resolutionX": "360",
+            "resolutionY": "237",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_360x237.jpg"
+          },
+          "small": {
+            "type": "Small",
+            "fileSize": "2921",
+            "resolutionX": "100",
+            "resolutionY": "65",
+            "url": "https://s3.amazonaws.com/filestore.rescuegroups.org/1974/pictures/animals/488/488826/1135194_100x65.jpg"
+          }
+        }
+      ],
+      "animalPrimaryBreed": "Labrador Retriever",
+      "animalSpecies": "Dog",
+      "animalSummary": "",
+      "animalUrl": "",
+      "animalVideos": [],
+      "animalVideoUrls": [],
+      "locationUrl": "",
+      "locationPostalcode": "",
+      "animalID": "488826"
+    }
+  }
+}
