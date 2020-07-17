@@ -1,0 +1,39 @@
+﻿@page "/fetchdata"
+
+@using PetAdoptions.Client.Data
+@inject HttpClient Http
+
+<section>
+  <h1 class="mb-4 text-4xl">Animals for Adoption</h1>
+  @if (listings == null)
+  {
+    <p><em>Loading...</em></p>
+  }
+  else
+  {
+    <ul class="space-y-16">
+      @foreach (var listing in listings)
+      {
+        <li>
+          <article class="flex flex-wrap lg:h-96 lg:space-x-4 space-y-4 lg:space-y-0">
+            <img src=@listing.PictureUrls[0] class="w-full h-full lg:flex-1 object-cover rounded-sm" />
+            <div class="w-full h-full lg:flex-1 overflow-y-scroll">
+              <h2 class="inline-block mb-2 text-3xl">@listing.Name</h2>
+              <span class="text-gray-900">@listing.AgeString</span>
+              <p>@listing.Description</p>
+            </div>
+          </article>
+        </li>
+      }
+    </ul>
+  }
+</section>
+
+@code {
+    private AnimalListing[] listings;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listings = await Http.GetJsonAsync<AnimalListing[]>("http://localhost:4000/AnimalListings");
+    }
+}
