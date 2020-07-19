@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using PetAdoptions.Api.Data.RescueGroups.Objects;
 using AutoMapper;
 
-namespace PetAdoptions.Api.Models.AnimalListing
+namespace PetAdoptions.Api.Models
 {
     public class AnimalListing
     {

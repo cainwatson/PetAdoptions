@@ -3,13 +3,15 @@ namespace PetAdoptions.Api.Data.RescueGroups.Requests.Animals
 {
     public class PublicSearch
     {
-        public class Filter {
+        public class Filter
+        {
             public string fieldName { get; set; }
             public string operation { get; set; }
             public string criteria { get; set; }
         }
 
-        public class SearchOptions {
+        public class SearchOptions
+        {
             public int resultStart { get; set; }
             public int resultLimit { get; set; }
             public string resultSort { get; set; }
