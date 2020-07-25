@@ -434,3 +434,7 @@ $RECYCLE.BIN/
 
 # Env Vars
 .env
+
+# CSS Build
+src/Client/wwwroot/css/index.css
+src/Server/wwwroot/css/index.css
