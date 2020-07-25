@@ -82,3 +82,13 @@ There's a few ways you can start the app. Each way requires you to start the Api
     - There is currently not a debugger config for starting the Client, so you'll have to start the client using Basic or Watch.
 
 Once you've started the server, go to `http://localhost:5000` in your browser.
+
+After getting the client and server started, build the css using the following commands:
+
+```sh
+$ cd src/Client/wwwroot
+$ yarn && yarn build
+$ cd -
+```
+
+An `index.css` file should have appeared in `src/Client/wwwroot/css`.
