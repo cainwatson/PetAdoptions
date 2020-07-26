@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PetAdoptions.Api.Models;
 using PetAdoptions.Api.Data.RescueGroups;
+using System.Linq;
 
 namespace PetAdoptions.Api.Controllers
 {
@@ -21,12 +22,25 @@ namespace PetAdoptions.Api.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<AnimalListing>> Get(AnimalsService.Store store = AnimalsService.Store.Sample, int start = 0, int limit = 6)
+        public async Task<IEnumerable<object>> Get(AnimalsService.Store store = AnimalsService.Store.Sample, int start = 0, int limit = 6)
         {
             var animals = await this._animalsService.GetAsync(store, start, limit);
             var animalListings = AnimalListing.fromRescueGroups(animals);
 
-            return animalListings;
+            return animalListings.Select(animalListing =>
+            {
+                return new {
+                    AdoptionFee = animalListing.AdoptionFee,
+                    AgeString = animalListing.AgeString,
+                    BirthDate = animalListing.BirthDate,
+                    Breed = animalListing.Breed,
+                    Description = animalListing.Description,
+                    Name = animalListing.Name,
+                    PictureUrls = animalListing.PictureUrls,
+                    Species = animalListing.Species,
+                    Url = animalListing.Url,
+                };
+            });
         }
     }
 }
